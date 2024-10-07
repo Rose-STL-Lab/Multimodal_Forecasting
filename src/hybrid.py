@@ -205,15 +205,14 @@ if __name__ == "__main__":
 
     hybrid_model = HybridModel(tokenizer, llm_model, max_length=max_length)
 
-    if current_stage != cfg['llm_dir']:
-        mlp_model = MultiHeadMLP(cfg, device).to(device)
-        if (current_stage == cfg['mlp_dir'] and args.inference) or \
-                (current_stage == cfg['hybrid_dir'] and not args.inference):
-            mlp_model.load_state_dict(torch.load(
-                os.path.join(exp_dir, cfg['mlp_dir'], 'best')))
-        elif (current_stage == cfg['hybrid_dir'] and args.inference):
-            mlp_model.load_state_dict(torch.load(
-                os.path.join(exp_dir, cfg['hybrid_dir'], 'mlp_best')))
+    mlp_model = MultiHeadMLP(cfg, device).to(device)
+    if (current_stage == cfg['mlp_dir'] and args.inference) or \
+            (current_stage == cfg['hybrid_dir'] and not args.inference):
+        mlp_model.load_state_dict(torch.load(
+            os.path.join(exp_dir, cfg['mlp_dir'], 'best')))
+    elif (current_stage == cfg['hybrid_dir'] and args.inference):
+        mlp_model.load_state_dict(torch.load(
+            os.path.join(exp_dir, cfg['hybrid_dir'], 'mlp_best')))
 
     if current_stage == cfg['mlp_dir']:
         train_cfg = mlp_cfg
