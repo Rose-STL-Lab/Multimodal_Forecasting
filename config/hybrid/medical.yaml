@@ -1,0 +1,53 @@
+seed: 0
+
+dataset_path: data/medical
+
+input_window: 1
+output_window: 1
+
+instruction_template: "Given the first {input_window} day's medical notes,
+predict the next {output_window} day's medical notes.
+
+Output the result in the following format: "
+date_template: "day_{index}_date"
+text_template: "day_{index}_medical_note"
+
+mlp:
+  model_type: multihead
+  token_dim: 4096
+  hidden_dim: 4096
+  activation: relu
+  weight_decay: 0
+  dropout: 0.3
+
+  epochs: 1000
+  patience: 100
+  batch_size: 32
+  learning_rate: 0.0001
+  lr_scheduler: 'linear'
+  num_warm_up_steps: 256
+
+llm:
+  load_in_8bit: false
+  load_in_4bit: true
+  model_name: meta-llama/Meta-Llama-3.1-8B-Instruct
+  lora_r: 8
+  lora_alpha: 32
+  lora_dropout: 0.1
+  embd_dim: 4096
+  
+  epochs: 5
+  batch_size: 4
+  learning_rate: 0.0001
+  lr_scheduler: 'cosine'
+  num_warm_up_steps: 32
+  mlp_weight: 2
+
+
+results_dir: results_medical
+mlp_dir: mlp_stage
+llm_dir: llm_stage
+hybrid_dir: hybrid_stage
+final_dir: final_stage_mlp_weight_2
+
+debug: false
