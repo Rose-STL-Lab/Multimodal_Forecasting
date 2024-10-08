@@ -2,6 +2,7 @@ dataset:
   batch_size: 4
   dataset_path: Data/medical
   date_template: '{timestep}_{index}_date'
+  dataset: medical
   hf_repo: Howard881010/medical-7day-inContext
   input_window: 7
   instruction_template: 'Given the medical information of the first {input_window}

@@ -1,6 +1,7 @@
 dataset:
   batch_size: 4
   dataset_path: Data/climate_2014_2023_final.csv
+  dataset: climate
   date_template: '{timestep}_{index}_date'
   hf_repo: Howard881010/climate-2day-inContext
   input_window: 2
