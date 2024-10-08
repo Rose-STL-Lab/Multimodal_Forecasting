@@ -1,0 +1,26 @@
+dataset:
+  batch_size: 4
+  dataset_path: Data/medical
+  date_template: '{timestep}_{index}_date'
+  hf_repo: Howard881010/medical-7day-inContext
+  input_window: 7
+  instruction_template: 'Given the medical information of the first {input_window}
+    {timestep}, predict the medical information of the next {output_window} {timestep}.
+    Output the result strictly in the following JSON format and no additional text:
+
+    '
+  model_type: text_text
+  normalization: window_last
+  numerical_columns:
+  - Heart_Rate
+  output_window: 7
+  text_template: '{timestep}_{index}_medical_notes'
+  time_template: '{timestep}_{index}_{col}'
+  timestep: day
+  num_key_name: Heart_Rate
+  text_key_name: medical_notes
+  # 1 for text2text, 2 for textTime2textTime, 3 for textTime2text, 4 for textTime2time
+  case: 1
+  train_split: 0.8
+  valid_split: 0.9
+  seed: 42
