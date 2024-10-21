@@ -1,0 +1,2309 @@
+date,Respiratory_Rate,Heart_Rate,SaO2,FiO2,text
+2156-11-05,54.06666666666667,139.4,96.71428571428572,31.307692307692307,"**Patient Information:**  
+- **Gender:** Female  
+- **Gestational Age:** 25-6/7 weeks  
+- **Weight:** 807g  
+
+**Vital Signs:**  
+- **Heart Rate:** 130-164 bpm  
+- **Respiratory Rate:** 68 breaths/min  
+- **Temperature:** 95.8°F  
+- **Blood Pressure:** 44/19 mmHg, stabilized mean BP between 30-42 mmHg  
+- **SaO2:** 100% on FiO2 of 0.50  
+
+**Clinical Observations:**  
+- Respiratory distress secondary to surfactant deficiency, with initial hypotonia, apnea, and bradycardia.  
+- Gradual improvement in heart rate and resolution of cyanosis.  
+- Intubated 3-4 minutes after delivery.  
+- Endotracheal tube properly positioned; breath sounds equal bilaterally with scattered coarse crackles noted.  
+- Moderate retractions present; fair bilateral breath sounds.  
+
+**Interventions and Management:**  
+- Surfactant administered twice; additional doses to be considered if oxygen requirements increase.  
+- Continuous monitoring of respiratory status and adjustments to ventilator settings as necessary.  
+- Oxygen saturation should be maintained between 88-92%.  
+- UAC and UVC placed and monitored.  
+- Broad-spectrum antibiotics initiated pending laboratory results.  
+
+**Plan:**  
+- Continued observation of respiratory and cardiovascular status.  
+- Further interventions and imaging as clinically indicated."
+2156-11-06,64.76923076923077,134.6153846153846,96.92,27.807692307692307,"**Patient Information:**
+- **Gestational Age:** 5 days old  
+- **Birth Weight:** 807 grams  
+
+**Respiratory Status:**  
+- **Ventilation:** SIMV mode, settings adjusted to 17/5 cm H2O and 18/5 cm H2O.  
+- **FiO2:** Ranges from 21% to 31%.  
+- **Respiratory Rate:** 40-80 breaths per minute, with coarse breath sounds and frequent suctioning required for thick, cloudy secretions.  
+- **Lung Sounds:** Clear following coarse rhonchi initially.  
+- **Oxygen Needs:** Actively monitored and supported.  
+
+**Vital Signs:**  
+- **Heart Rate:** 120-160 bpm.  
+- **Blood Pressure:** Unstable, mean BP of 28-40.  
+- **Temperature:** Averages between 100.1°F and 98.9°F.  
+
+**General Condition:**  
+- AGA. Monitoring for signs of infection due to suspected chorioamnionitis in mother.  
+
+**Plan:**  
+- Continue monitoring and supporting respiratory and cardiovascular status.  
+- Regular assessments of blood gases and vital signs.  
+- Adjust dopamine infusion for blood pressure stabilization.  
+- Continue antibiotic regimen.  
+- Monitor urine output and draw electrolytes every 8 hours as ordered."
+2156-11-07,49.333333333333336,144.78571428571428,96.5,25.17391304347826,"**Medical Note**
+
+**Patient ID:** [Patient ID]  
+**Date:** [Date of note]  
+**Attending Physician:** Neonatology Attending  
+
+1. **Respiratory Rate:**  
+   - Ventilator settings: SIMV 17/5  
+   - Respiratory rate fluctuating between 23 and 60 breaths per minute.  
+   - Requires suctioning every 1-3 hours; secretions include large cloudy and small blood-tinged notes.
+
+2. **Heart Rate:**  
+   - Heart rate stable at 120-150 bpm; no murmurs detected.  
+   - Dopamine weaned off 10 hours ago.
+
+3. **SaO2:**  
+   - Arterial blood gas (ABG) results: pH 7.25, pCO2 47, pO2 96 initially; repeat ABG: pH 7.30, pCO2 49, pO2 52.  
+   - Continuous adjustments and monitoring required.
+
+4. **FiO2:**  
+   - Currently between 0.21-0.25 with ventilation support.  
+   - To be adjusted based on blood gas results and respiratory status.
+
+**Plan:**  
+Continue to monitor respiratory support, heart rate, and blood gases. Adjust FiO2 as necessary. Evaluate nutritional needs and follow up on lab results."
+2156-11-08,53.7,149.46428571428572,96.46428571428572,26.291666666666668,"**Respiratory Assessment:**  
+- Patient on SIMV mode with settings of 17/5; weaned respiratory rate initially to 24 then increased to 26.  
+- Respiratory rate fluctuating between 40-60 breaths per minute; intercostal and scapular retractions observed.  
+- FiO2 maintained between 21-31%.  
+- Last arterial blood gas (ABG): pH 7.29, pCO2 48, pO2 72.  
+- Thick yellow secretions necessitating suctioning every 1-3 hours.  
+- Plan: Continue monitoring respiratory status and adjust ventilation as required.
+
+**Cardiovascular Assessment:**  
+- Heart rate stable at 130-160 bpm; blood pressure within mean BP 34-44.  
+- Heart murmur noted initially, resolved on follow-up.  
+- Plan: Monitor cardiovascular status and any murmurs closely.
+
+**Oxygenation Status:**  
+- SaO2 and oxygenation levels to be monitored closely with adjustments to FiO2 as necessary. 
+
+**Overall Plan:**  
+- Ongoing observation of respiratory rate, heart rate, SaO2, and FiO2; adjustments as needed based on clinical status.  
+- Monitor for signs of infection and continue supportive care."
+2156-11-09,49.84615384615385,147.20833333333334,96.375,28.782608695652176,"**Medical Note Summary**
+
+**Patient Information:**
+- **Gestational Age:** 26 weeks 4 days
+- **Birth Weight:** 807 g (~50th %ile)
+
+**Respiratory Care:**
+- **Admission Date:** 17/5
+- **Respiratory Rate (RR):** Initially 24, decreased to 22, fluctuating observed RR between 30's to 50's. Recorded RR: 40-60 during monitoring.
+- **Breath Sounds:** Coarse, scattered crackles, and coarse lung sounds noted.
+- **Suctioned:** Large amounts of loose white secretions; moderate yellow/cloudy secretions observed, suctioning performed every 2-4 hours.
+- **ABG Results:** pH: 7.30, pCO2: 44; further ABG: pH: 7.21, pCO2: 63; subsequent values: pH: 7.27, pCO2: 53.
+- **Oxygen Requirements:** FiO2 adjusted from 28% to 35%; requirements noted between 21% and 45%; 02 requirement at 24-30%.
+- **Oxygen Saturation (SaO2):** Maintained between 92-99%, with occasional desaturations into the 80's during irritability.
+- **Ventilator Settings:** SIMV mode, starting rate of 22 with pressures of 17/5, was adjusted as needed; noted weaning with initial trials.
+- **Clinical Observations:** No respiratory spells noted; planned continuous monitoring and respiratory support.
+  
+**Cardiovascular Status:**
+- Heart rate: noted between 130-150 beats per minute.
+- Soft murmur audible; patient appeared pink and well-perfused.
+
+**Additional Notes:**
+- Received Indocin for PDA management; second dose documented.
+- Continuous supportive care and adjustments as indicated by clinical findings and monitoring.
+
+**Plan:** Follow up with ABG assessments, adjust ventilator settings and oxygen requirements as tolerated. Continuous respiratory monitoring and supportive care."
+2156-11-10,52.142857142857146,148.84,95.0,31.041666666666668,"**Patient Information:**
+- Date of Examination: November 10, 2156
+- Time: 3:28 AM
+- Patient Status: Infant with prematurity
+
+**Respiratory Status:**
+- Ventilation: Orally intubated on IMV settings of 17/5.
+- FiO2: Ranges from 24-40%.
+- Respiratory Rate: 40-60 breaths per minute, currently at 22 breaths per minute.
+- Lung Sounds: Clear with moderate cloudiness; suctioning performed every 2-4 hours.
+- Observations: Coarse rhonchi and scattered crackles noted, improving with suctioning.
+- ABG Results: pH 7.28, pCO2 46, pO2 42, bicarbonate 23, base excess -4.
+
+**Heart Rate:**
+- Stable between 130-170 bpm.
+
+**Oxygen Saturation (SaO2):**
+- Continuous monitoring, specific values not provided.
+
+**Additional Observations:**
+- The infant is stable with brisk capillary refill; good perfusion noted.
+- Hyperbilirubinemia managed with phototherapy; bilirubin levels to be checked in the morning.
+
+**Plan:**
+- Continue monitoring respiratory status, adjust FiO2 as tolerated.
+- Monitor feeding and lab values, with daily evaluations.
+- Supportive therapy to continue for resolving Respiratory Distress Syndrome (RDS)."
+2156-11-11,61.333333333333336,159.03703703703704,95.5925925925926,43.68,"**Date:** 2156-11-11  
+**Time:** Multiple entries throughout the day  
+
+**Patient Information:** Preterm infant, born at 27 weeks gestation.  
+
+**Vital Signs:**
+- **Heart Rate:** 140-160 bpm, with several bradycardias during handling.
+- **Respiratory Rate:** Initial 22 breaths per minute, increased to 26 with support adjustments up to 50-60 breaths per minute noted.
+- **Oxygen Saturation (SaO2):** Desaturation events observed, requiring increased FiO2.
+- **Fraction of Inspired Oxygen (FiO2):** Ranging from 28-38% initially, later increased to 35-50%, currently at 44%.  
+
+**Respiratory Support:**
+- Infant on HiFi ventilation with settings of 17/5, later adjusted. Initial MAP of 11 and amplitude of 24 were noted.
+- Presence of coarse breath sounds and moderate white secretions, with suctioning performed. Mild intercostal/subcostal retractions noted.
+- ETT positioned appropriately; lung assessment showed persistent interstitial edema and atelectasis.
+
+**Clinical Observations:**
+- Laboratory values indicating metabolic acidosis (e.g., pH: 7.12; pCO2: 40; pO2: 29).
+- Imaging revealed pneumatocele or pneumonitis in right lower lung fields. 
+
+**Plan:**
+- Continuous monitoring of respiratory status and adjustments to FiO2 as needed.
+- Further imaging and repeat blood gas analysis pending. 
+
+**Follow-up:**
+- Monitor for resolution of respiratory distress and adjust along with nutritional support. Careful tracking of desaturation events and overall clinical status required."
+2156-11-12,31.071428571428573,161.0344827586207,93.75862068965516,73.4,"**Patient Information:**
+- Age: Neonate
+- Gestational Age: 25 weeks
+- Medical Condition: Respiratory Distress Syndrome (RDS)
+- Current Status: Critically ill infant with respiratory deterioration
+
+**Respiratory Assessment:**
+- Ventilation: 
+  - High-Frequency Oscillatory Ventilation (HFOV)
+  - Mean Airway Pressure (MAP): 10-12 mmHg
+  - Amplitude (AMP): 24-27
+  - Fraction of Inspired Oxygen (FiO2): 38-100% (labile; typically 60-80%)
+- Oxygen Saturation (SaO2): Range 40-99%, labile
+- Breath sounds: Decreased air movement on right, coarse rales on left
+- Laboratory Results:
+  - Arterial Blood Gas (ABG) Initial: pH 7.21, pCO2 60, pO2 32
+  - Updated: pH 7.35, pCO2 48, pO2 32
+
+**Clinical Observations:**
+- Chest X-ray: 
+  - Findings suggest bilateral interstitial opacities, possible pulmonary interstitial emphysema (P.I.E.) or congenital cystic adenomatoid malformation (CCAM)
+  - Right upper lobe shows atelectasis and edema; hyperinflation noted in lower lobes
+- Secretions: Moderate cloudy from ET tube, thick clear from mouth
+
+**Medical Plan:**
+- Reassess tube positioning and imaging post-repositioning
+- Monitor respiratory status closely and adjust FiO2
+- Plan for echocardiogram and follow-up imaging to evaluate lung pathology
+- Consider cardiology consult for suspected patent ductus arteriosus (PDA) and potential infections
+- Continue nutritional support via TPN; currently NPO
+
+**Next Steps:**
+- Ongoing monitoring of vital signs, especially heart rate (150-160 bpm), blood pressure (MAP 25-34 mmHg)
+- Address parental concerns and provide updates on infant's condition and treatment plan"
+2156-11-13,33.791666666666664,158.16,94.96,63.96,"**Patient Information:**
+- **Date of Life (DOL):** 8
+- **Gestational Age:** 25 weeks 6 days
+- **Weight:** 690g (weight loss of 65g)
+
+**Respiratory Status:**
+- Currently on high-frequency oscillatory ventilation (HFOV).
+- Mean airway pressure (MAP): 12-13.
+- Delta pressure: 25-27.
+- Fraction of inspired oxygen (FiO2): 50-100%, generally between 60-70%, higher during cares or agitation.
+- Capillary blood gas (CBG): pH 7.22-7.36, pCO2 42-61.
+- Oxygen saturation (SaO2): more stable with right side down positioning. 
+
+**Cardiovascular Observations:**
+- Heart rate (HR): Consistently 150-170 bpm.
+- Mean blood pressure (BP): Ranges from 24-44, currently maintained above 30 with dopamine at 8 mcg.
+- Noted murmurs and echocardiogram confirmed patent ductus arteriosus (PDA); treated with indomethacin.
+
+**Clinical Summary:**
+- Bilateral breath sounds clear with limited aeration on the right; stable diffuse bilateral opacity noted on imaging.
+- Ongoing management includes monitoring of lung expansion and respiratory support, with plans for serial chest X-rays and continued evaluation for potential surgical interventions for pulmonary issues if indicated. 
+
+**Recommendations:**
+- Continuous monitoring of respiratory effort and adjustments to ventilator settings as needed.
+- Regular assessments of blood gas values and oxygen saturation.
+- Maintain parental nutrition and monitoring electrolytes. 
+
+**Plan:**
+- Continue high-frequency ventilation and adjust FiO2 as indicated.
+- Monitor closely for any changes in respiratory patterns or need for increased support."
+2156-11-14,47.45,161.92,96.28,46.17391304347826,"**Patient Information:**  
+- Gestational Age: 25 weeks  
+- Day of Life: 9  
+- Weight: 860 gm  
+
+**Current Respiratory Status:**  
+- Ventilation: High-Frequency Oscillatory Ventilation (HFOV)  
+- Mean Airway Pressure (MAP): 12  
+- FiO2: 40-60% (weaned to 30-45%)  
+- Delta Pressure: 23 (weaned to 21)  
+- Oxygen Saturation (SaO2): >94%, with spontaneous desaturation to 72% managed with brief FiO2 increase.
+
+**Cardiovascular Status:**  
+- Heart Rate: 150-160 bpm  
+- Blood Pressure: 44/28 mmHg  
+- Mean Arterial Pressure (MAP): 30-35  
+- Support: On dopamine and dobutamine at 5 mcg/kg/min  
+
+**Laboratory Results:**  
+- Capillary Blood Gas (CBG): pH 7.27, pCO2 49, pO2 25  
+- Electrolytes: Na 129, K 4.1, Cl 94, CO2 20  
+- Bilirubin: 3.0 (undergoing phototherapy)  
+
+**Summary:**  
+The infant continues on HFOV with fluctuating FiO2 requirement and maintained heart rate within normal limits. Regular monitoring of respiratory and cardiovascular parameters ongoing."
+2156-11-15,48.35714285714285,165.07142857142858,94.42857142857144,53.46153846153846,"**Patient Information:**
+- **Patient:** Infant born at 25 weeks gestation
+- **Medical Conditions:** Respiratory Distress Syndrome (RDS), on High-Frequency Oscillatory Ventilation (HFOV), Patent Ductus Arteriosus (PDA)
+
+**Respiratory Rate and Ventilator Settings:**
+- **Intubation Status:** Patient remains intubated
+- **Ventilator Settings:** 
+  - MAP: Initially 12, weaned to 10, then increased back to 11 due to increased FiO2 needs
+  - Amplitude (AMP): Initially 21, then adjusted
+  - FiO2: Initially varied between 50-100%, generally maintained between 48-60%
+- **Breath Sounds:** Coarse throughout with some improved air entry noted on the right side
+
+**Oxygen Saturation (SaO2):**
+- SpO2: >93% with occasional dips into the 80s, requiring O2 adjustments
+- **Arterial Blood Gas Results:**
+  - Initial ABG (pH 7.26, pCO2 42, pO2 44) 
+  - Follow-up ABG (pH 7.28, pCO2 48, pO2 52)
+  - Recent ABG: pH 7.21, CO2 40, PO2 45
+
+**Heart Rate (HR):**
+- Heart rate: Ranges from 150-170 bpm
+- Notable events include spells with HR dropping to 90 and 100, requiring oxygen and ventilation support
+
+**Assessment and Plan:**
+- Monitor respiratory status closely and adjust FiO2 and MAP as needed 
+- Continue weaning support as tolerated 
+- Further evaluation of lung condition due to previous pneumothorax and current opacities
+
+**Imaging Findings:**
+- Chest X-Ray showed diffuse opacities, reducing emphysematous changes from the previous study, and improvements noted in the area of Pulmonary Interstitial Emphysema (PIE).
+
+**Medication Notes:**
+- Sodium bicarbonate administered to address metabolic acidosis
+- Suctioning performed due to moderate secretions
+
+**General Notes:**
+- Infant repositioned on the abdomen to enhance respiratory function
+- Nursing staff providing ongoing updates and care adjustments based on clinical findings and laboratory results
+- Family meetings scheduled to address concerns regarding the infant's condition and care strategy"
+2156-11-16,42.21428571428572,162.75,95.46428571428572,58.29166666666666,"**Date:** [Insert Date]  
+**Time:** [Insert Time]  
+
+**Respiratory Status:**
+- Patient on High-Frequency Oscillation Ventilation (HFOV).
+- Mean Airway Pressure (MAP) at 11 cm H2O, Delta P at 19.
+- Fraction of Inspired Oxygen (FiO2) between 48-60%.
+- Lung sounds coarse; observed secretions were moderate white and small amounts of cloudy.
+- Last Arterial Blood Gas (ABG) results: pH 7.25, pCO2 40, pO2 45; next ABG scheduled at 4 AM.
+
+**Cardiovascular Status:**
+- Heart Rate (HR): 150-170 bpm.
+- Blood Pressure (BP): Mean BP 30-41 mmHg; stable.
+- Ongoing monitoring of cardiovascular status; no immediate interventions required at this time.
+
+**Oxygenation:**
+- Oxygen saturation (SaO2) shows some desaturation to mid-80s, requiring increased FiO2.
+
+**Plan:**
+- Continue to closely monitor respiratory and cardiovascular status.
+- Adjust respiratory support as tolerated; wean FiO2 and MAP as deemed appropriate based on clinical judgment.
+- Repeat ABG to assess respiratory function and metabolic status."
+2156-11-17,39.83870967741935,154.82758620689654,91.03448275862068,79.33333333333333,"**Patient Information:**
+- Infant diagnosed with Hyaline Membrane Disease and Pulmonary Interstitial Emphysema.
+
+**Respiratory Status:**
+- Intubated on High-Frequency Oscillatory Ventilation (HFOV).
+- Ventilator Settings: Mean Airway Pressure (MAP) 11, Amplitude (AMP) 19, Fraction of Inspired Oxygen (FiO2) between 56-80%.
+- Spontaneous respiratory rate: 30-50 breaths per minute.
+- ABGs: PO2 43, CO2 50, pH 7.34.
+- Intercostal and subcostal retractions observed.
+- Bilateral coarse breath sounds noted.
+
+**Cardiovascular Status:**
+- Heart rate: 140-150 bpm.
+- Blood pressure: Mean arterial pressure (MAP) 26-41; stable perfusion.
+- No murmurs observed, normal pulse and perfusion.
+
+**Oxygen Saturation:**
+- SaO2 levels stable, with periodic monitoring showing improvement.
+
+**Plan:**
+- Continue to monitor respiratory and cardiovascular status closely.
+- Adjust ventilator settings as needed based on assessment.
+- Maintain current nutritional support (TPN).
+- Regular monitoring of electrolyte levels and bilirubin results."
+2156-11-18,26.93548387096774,143.4516129032258,93.87096774193547,75.96875,"**Patient Information:**
+- Infant on High-Frequency Oscillatory Ventilation (HFOV).
+- Diagnosis: Pulmonary Interstitial Emphysema (PIE), Hyaline Membrane Disease (HMD).
+
+**Vital Signs:**
+- Heart Rate: 130-140 bpm, stable pulses, brisk capillary refill.
+- Mean Arterial Pressure (MAP): 12 cm H2O.
+- Oxygen Saturation (SaO2): 91-99%, labile with repositioning.
+
+**Respiratory Observations:**
+- Respiratory Rate: Initially 24, reduced to 22 post-bicarbonate.
+- Fraction of Inspired Oxygen (FiO2): Increased to 90-100%, weaned down to 52-70% tolerated, fluctuating.
+- CXR Findings: Right lung clear, left lung collapse with severe PIE, interstitial emphysema improvements noted.
+
+**Clinical Events:**
+- Prolonged desaturation episode requiring bag ventilation, tolerated well.
+- Notable increased MAP and delta pressure indicating response to respiratory management.
+
+**Plan:**
+- Continue close monitoring of respiratory and cardiovascular status.
+- CXR to be repeated for ongoing assessment.
+- Transition to conventional ventilation planned.
+- Maintain sedation with Fentanyl as per protocol."
+2156-11-19,47.96551724137931,153.13793103448276,94.82758620689656,44.625,"**Patient ID:** [**Clip Number (Radiology) 77641**]  
+**Date:** 2156-11-19  
+**Time:** 4:27 AM  
+**Exam Type:** BABYGRAM (CHEST ONLY)  
+**Medical Condition:** Infant on ventilator support with history of pulmonary interstitial emphysema (PIE).
+
+**Respiratory Status:**  
+- On conventional ventilation: settings of 26/6 and FIO2 of 45-57%.
+- Respiratory Rate (RR): 20-60, with increased rates to 40-60 with retractions.
+- Oxygen Saturation (SaO2): >92%.
+- Breath sounds: coarse/crackly; right side better aerated than left.
+- Notable air leak; increased oxygen requirement when head turned left.
+- Suctioning reveals pale yellow secretions; moderate-large amounts noted.
+- ABG results: pH 7.32, pCO2 58, pO2 35, HCO3 31, Base Excess 1.
+
+**Cardiovascular Status:**  
+- Heart Rate: 130-160 bpm.
+- Murmur present; pulses within normal limits.
+- Blood pressure: stable with MAPs ranging from 30-44.
+
+**Plan:**  
+- Continue monitoring respiratory status and adjust ventilator settings as necessary.
+- Wean FIO2 as tolerated.
+- Monitor for respiratory changes and schedule follow-up chest X-ray.  
+- Assess need for nutritional adjustments based on tolerance."
+2156-11-20,43.333333333333336,156.25,94.70833333333331,51.16,"**Patient Condition:**
+- Infant born at 25 weeks gestation with severe Respiratory Distress Syndrome and right-sided Pulmonary Interstitial Emphysema.
+
+**Observations:**
+- Respiratory rate fluctuating between 22-60 breaths per minute, primarily in the 40-50s.
+- Heart rate noted within normal range.
+- SaO2 fluctuating; desaturation events observed with handling. Occasional increases in FiO2 required.
+- FiO2 typically ranges from 38-60%, currently set at around 50-60%.
+
+**Ventilator Settings:**
+- Current settings: 24/6 X22, with recent PIP weaning from 26 to 24.
+- Ongoing assessment for weaning FIO2 as tolerated. 
+
+**Arterial Blood Gases:**
+- Recent ABGs: 7.42/38 and 7.39/59/38, no immediate changes post-ABG results.
+
+**Additional Findings:**
+- Lung volumes low and heart borders not well visualized due to opacification.
+- Coarse breath sounds with moderate intercostal and subcostal retractions.
+
+**Plan:**
+- Continue close monitoring of respiratory parameters and support as needed. 
+- Adjust FIO2 and further assess pulmonary function."
+2156-11-21,44.75,155.125,94.83333333333331,43.208333333333336,"**Patient Information:**
+- Age: Infant
+- Date of Life: 16
+
+**Respiratory Status:**
+- Orally intubated with 2.5 ETT.
+- Ventilator settings: SIMV 24/6 for 22 hours; recently weaned from rate 22 to 20.
+- FiO2: 35-55%, primarily 46-55% overnight; goal to wean as tolerated.
+- Respiratory rate fluctuates between 30-50 breaths per minute.
+- Breath sounds: coarse and equal, moderate intercostal and subcostal retractions noted.
+- ETT suctioned for moderate thick white secretions.
+- No apnea or bradycardia episodes recorded.
+- CBG results: 7.37/67; plan to check again later today.
+
+**General Assessment:**
+- Patient stable; developmental needs assessed.
+- Temperature stable in a servo-controlled isolette.
+- Weight decreased by 82 grams; current weight at 852 grams.
+- Ongoing monitoring of respiratory status and nutritional needs."
+2156-11-22,41.5,157.54166666666666,95.58333333333331,37.083333333333336,"**Respiratory Status:**
+- Infant is orally intubated with a 3.0 ETT.
+- Ventilator settings: SIMV 24 breaths/min, 6 mL tidal volume, FiO2 ranging from 28-50%.
+- Respiratory rate: predominantly 30-50 breaths/min with mild intercostal/subcostal retractions.
+- Breath sounds: coarse and clear after suctioning; moderate white secretions noted.
+- Plan: Continue weaning FiO2 as tolerated; closely monitor respiratory status.
+
+**Nutritional Support:**
+- Total fluid intake: 150 cc/kg/day; current enteral feeds: 30-40 cc/kg/day of breast milk.
+- Dextrose 15% and intravenous lipids infusing well via PICC.
+- Current caloric intake from PN and EN are being projected to meet requirements.
+- Assessment: Tolerating feeds and fluids well with ongoing adjustments as needed."
+2156-11-23,36.208333333333336,155.66666666666666,95.875,31.416666666666668,"**Patient Information:**
+- Infant born at 27 weeks gestation
+- Medical conditions: HMD (Hyaline Membrane Disease), PDA (Patent Ductus Arteriosus)
+
+**Respiratory Status:**
+- Patient remains on ventilator support, settings: SIMV 24/6 with FiO2 35-40%.
+- Respiratory rate: 24-40 breaths/min.
+- Coarse breath sounds after suctioning every 3-4 hours for moderate amounts of white secretions.
+- Mild retractions observed.
+- Arterial blood gas results: pH 7.34, pCO2 56, pO2 69, HCO3 32.
+- No changes made to ventilator settings; continue to monitor closely.
+
+**Clinical Impression:**
+- Stable respiratory status but requires ongoing monitoring due to coarse breath sounds and elevated CO2 levels.
+- Plans to wean from ventilator as tolerated, with increased feedings and caloric intake."
+2156-11-24,38.625,160.08333333333334,96.66666666666669,31.375,"**Respiratory Care Note:**
+- Patient intubated on IMV settings of 24/6, respiratory rate (RR) 20-40 breaths/min.
+- FiO2 maintained between 25-37%; increased temporarily due to desaturation episodes with SaO2 dropping to low 70s.
+- Breath sounds coarse; moderate white secretions suctioned every 4 hours.
+- Peak inspiratory pressure (PIP) decreased from 24 to 23.
+- Continuous monitoring of capillary blood gas planned due to respiratory instability.
+
+**Vital Signs:**
+- Heart Rate: 83 bpm
+- Blood Pressure: 125/4.3
+- Temperature: 98°F, stable post-kangaroo care.
+
+**Growth and Development:**
+- Weight: 855 grams (increase of 19 grams).
+- Infant is alert and active, exhibiting stability in care routines.
+
+**Assessment/Plan:**
+- Monitor respiratory status and wean PIP as tolerated.
+- Consider sodium supplementation as needed. 
+- Follow-up bilirubin checks are scheduled, currently at 2.7/0.6."
+2156-11-25,39.54166666666666,155.58333333333334,96.5,36.41666666666666,"**Patient Information:** Infant  
+**Date:** [Date not provided]  
+
+**Respiratory Status:**
+- On IMV settings: 23/6 with a respiratory rate of 20-40 breaths per minute.
+- FiO2 between 25-50%, averaging around 30%.
+- Lung sounds: Coarse with moderate to large secretions (white and clear).
+- Blood gas analysis: pH 7.34, pCO2 63-64.
+- No bradycardia or apnea episodes noted.
+- Assessment: Stable on current settings, continue monitoring.
+
+**Nutritional Status:**
+- Total fluid intake: 150 cc/kg/day, currently advancing feeds from 90 cc/kg/day of BM20.
+- No emesis; minimal aspirates noted.
+- IV PN (D15) at 60 cc/kg/day.
+- Electrolytes monitored; normal output with green stools, negative for hemoglobin.
+- Weight: Increased by 15 g to 870 g.
+- Assessment: Tolerating feeds well, continue to advance as tolerated.
+
+**Overall Condition:**
+- Patient in servo-controlled isolette with stable temperature.
+- Alert, active, engaging with care, moving all extremities.
+- Assessment: The infant remains stable with respiratory support and tolerating feeds. 
+
+**Plan:**
+- Continuous monitoring of respiratory status and advancement of feeds.
+- Regular assessment of weight and abdominal condition. 
+- Monitor bilirubin levels and manage phototherapy as needed."
+2156-11-26,44.16666666666666,158.45833333333334,95.21739130434784,35.375,"**Date/Time:** 0700  
+**Patient ID:** [**2083**]  
+**Diagnosis:** Hyperbilirubinemia  
+
+**Respiratory Status:**  
+- Orally intubated, on ventilator settings of 22/6, rate 20.  
+- Peak Inspiratory Pressure (PIP) reduced by 1.  
+- Capillary blood gas results: pH 7.34, pCO2 61, pO2 37, tCO2 34, bicarbonate 4.  
+- Lung sounds: clear and tight; moderate to large amounts of white secretions suctioned every 2-4 hours.  
+- Respiratory rate varies from 20 to 50 breaths/min; mild supraclavicular/intercostal retractions.  
+- Oxygen saturation frequently drifts to 80%; no bradycardias noted.  
+- Current FiO2: 25-35%.  
+- Caffeine therapy ongoing.  
+- Assessment: Stable on current ventilator support; plans to wean as tolerated.  
+
+**Feeding and Nutrition:**  
+- Total enteral feedings at 150cc/kg/day; bolus feedings increased by 10cc/kg/day.  
+- Tolerating feedings well; sodium levels normalizing.  
+- Laboratory tests for electrolytes ordered for morning.  
+
+**Assessment & Plan:**  
+- Monitor respiratory status and electrolyte levels.  
+- Continue feeding adjustments as needed.  
+
+**General Assessments:**  
+- Patient alert, active; fontanels soft and flat.  
+- Temperature stable in servo-controlled isolette.  
+- No significant changes; continue care plans and monitoring closely."
+2156-11-27,44.625,155.83333333333334,96.41666666666669,48.125,"**Date/Time:** NPN 0700-1900
+
+**Respiratory Status:**
+- Orally intubated on IMV settings of 22/6, with a respiratory rate of 30-60 breaths per minute.
+- FiO2 fluctuating between 30-60%, increased to 100% during cares/suctioning; primarily maintained around 50%.
+- Moderate to large secretions; suctioning performed every 3-4 hours.
+- Oxygen saturation levels are labile, dropping to 70%, with recovery noted after interventions.
+- Blood gas results indicate moderate respiratory distress (7.34/62/57).
+  
+**Assessment/Plan:**
+- Continue to monitor respiratory status closely; consider chest X-ray for persistent issues.
+- Caffeine therapy initiated to assist respiratory drive.
+
+**Vital Signs:**
+- Heart Rate: 140-160 bpm.
+- Mean Blood Pressure: 45 mmHg. 
+
+**General Note:**
+- Skin integrity monitored; appeared healthy with no breakdown.
+- Family engaged in care; emotional support is provided. 
+
+**Overall Plan:** 
+- Support nutritional needs and advance enteral feeds as tolerated.
+- Continue monitoring and adjust respiratory support as needed."
+2156-11-28,49.88,154.52,94.84,55.54166666666666,"**Patient Information:**
+- Date: [2156-11-28]
+- Clip Number: [77246]
+- Medical Condition: Infant with Respiratory Distress Syndrome (RDS) and Chronic Lung Disease (CLD)
+
+**Vital Signs:**
+- Heart Rate (HR): 140-150 bpm
+- Respiratory Rate (RR): 40-80 breaths per minute
+- Oxygen Saturation (SaO2): Constant desaturations observed
+- FiO2: Currently 45-70%, increased from previous settings; requires close monitoring
+
+**Respiratory Status:**
+- On mechanical ventilation with settings of 22/6 cm H2O 
+- Improved aeration in the left lung; right upper lobe (RUL) atelectasis noted on CXR
+- Thick white secretions; suctioning performed every 3-4 hours
+- Patient positioned right side up; susceptible to labile respiratory status
+
+**Clinical Observations:**
+- No bradycardia episodes noted
+- Increased peak inspiratory pressure (PIP) to 24 due to increasing oxygen requirements
+- Last ABG: pH 7.37, pCO2 59, pO2 56
+
+**Plan:**
+- Continue oxygen therapy as per requirement, monitor respiratory status regularly
+- Increase caloric intake through enteral feeds, currently at 150 cc/kg/day
+- Regular communication with family regarding infant’s condition and progress"
+2156-11-29,51.0,154.625,95.5,61.25,"**Patient Information:**  
+- **Date:** 2156-11-29  
+- **Patient:** 3-week-old infant, born at 25 weeks gestation  
+
+**Respiratory Assessment:**
+- **Intubation & Support:** Mechanically ventilated, SIMV mode at 24/6.  
+- **Respiratory Rate:** 20 breaths per minute, fluctuating between 40-60 bpm.  
+- **Oxygen Requirement:** FiO2 labile, currently between 50-70%, with frequent adjustments (initially at 80-100%).  
+- **Saturation Levels:** O2 saturation maintained > 90%, but frequent desaturations noted, with episodes requiring intervention.  
+- **Lung Examination:** Coarse lung sounds; moderate amounts of thick, white secretions; suctioning performed every 2-4 hours.  
+- **Atelectasis:** Significant atelectasis in the left upper lobe observed on chest X-ray.  
+- **Ventilator Settings:** PIP increased to 25 cm H2O; respiratory distress and retractions present.  
+- **Caffeine Therapy:** Continuing administration for respiratory support.  
+
+**Cardiovascular Assessment:**
+- Cardiac status marked by stable pulses and stable blood pressure. Hematocrit at 32.  
+
+**Infection Risk:**
+- Potential sepsis suspected, monitoring for signs; currently on Vancomycin and Gentamicin.  
+
+**Nutritional Assessment:**
+- Enteral feeding at 150 cc/kg/day; weight 988 g (up 13 g).  
+
+**Plan:**  
+- Ongoing monitoring of respiratory parameters and oxygen needs.  
+- Adjust ventilation settings as necessary.  
+- Evaluate feeding tolerance and weight daily.  
+- Continue family updates and involvement."
+2156-11-30,57.42307692307692,167.88,96.8,54.16,"**Patient:** Baby [**Known lastname 451**]  
+**Date:** [**Date of note not provided**]  
+**Time:** 0700  
+
+**Respiratory Status:**
+- **Diagnosis:** Chronic lung disease with respiratory distress.
+- **Ventilator Settings:** 25/6 cm H2O, Rate 25 breaths/min, FiO2 50-60%.
+- **Observed Parameters:** 
+  - Respiratory rate: 40-70 breaths/min.
+  - Fluctuations in FiO2 requirement: 45%-70%, desaturations down to 30% and prolonged to 60-70%.
+  - Coarse breath sounds, moderate-large white secretions present, suctioned every 4 hours.
+  - Moderate intercostal and subcostal retractions.
+- **Additional Therapy:** Caffeine therapy ongoing.
+
+**Cardiovascular Status:**
+- Heart rate: 160-170 bpm.
+- Loud murmur present; echocardiogram pending results.
+
+**Assessment Summary:**
+- Patient is intubated, well-perfused, with stable blood pressure and no bradycardia reported.
+- Close monitoring of respiratory and cardiovascular status is planned, with potential adjustments in ventilator settings and FiO2 to be made as needed."
+2156-12-01,49.72,163.45833333333334,97.33333333333331,56.8,"**Respiratory Status:**
+- Patient intubated on SIMV mode at 24 breaths/min with pressure support of 6 cm H2O.
+- FiO2 ranging from 46-73%, respiratory rate fluctuating between 40-80 breaths/min.
+- Frequent desaturation episodes, SaO2 dropping to 60% and occasionally to 40-50%.
+- Thick white secretions suctioned every 2-4 hours; breath sounds slightly coarse prior to suctioning.
+- Mild retractions noted, no apneic spells observed.
+- Capillary gas pH 7.39, pCO2 61.
+
+**Cardiovascular Status:**
+- Heart rate between 160s-170s, blood pressure 61/31, MAP 52.
+- Loud heart murmur persists; plan for Indomethacin for PDA management."
+2156-12-02,44.29166666666666,158.54166666666666,96.91304347826087,54.375,"**Respiratory Status:**
+- Patient intubated with a 3.0 ETT, on SIMV mode.
+- Respiratory rate fluctuating between 25-70 breaths per minute.
+- FiO2 levels fluctuating from 44-100%, primarily maintained at 50% during the shift.
+- Oxygen saturation drifting between 70s-80s; no desaturation spells noted.
+- Moderate to large secretions; suctioning performed every 4 hours.
+- Caffeine administered daily for respiratory support.
+- Arterial blood gas pH at 7.39, pCO2 at 57.
+
+**Cardiovascular Status:**
+- Heart rate recorded between 150-170 bpm; heart murmur persists.
+- Blood pressure within normal limits; patient well-perfused.
+
+**Oxygen Requirements:**
+- Requires 50-75% oxygen at rest, increased during care interventions.
+
+**Monitoring Plan:**
+- Continue to adjust and titrate oxygen levels to maintain adequate saturation.
+- Monitor vital signs closely and conduct follow-up echocardiogram for PDA assessment."
+2156-12-03,46.208333333333336,153.54166666666666,97.70833333333331,58.92,"**Patient Summary:**
+
+- **Respiratory Rate:** Currently 50s; requires close monitoring due to labile condition.
+- **Heart Rate:** Ranges from 160-170 bpm; soft murmur present.
+- **SaO2:** Frequent desaturation events noted; respiratory support with 100% FiO2 during care interventions.
+- **FiO2:** Ranging from 0.50 to 0.65; requires up to 100% during care; anxious for need for ventilation support (SIMV 24/6, R 25).
+
+**Clinical Observations:**
+- Coarse breath sounds with moderate secretion management; intubated with settings requiring high levels of oxygen.
+- Suctioning performed every 4 hours for moderate to large amounts of cloudy secretions.
+- Ventilation needs indicate limited respiratory reserve; continue bespoke respiratory care as required.
+
+**Plan:**
+- Monitor respiratory and cardiovascular parameters closely.
+- Adjust care based on ongoing assessments of respiratory support levels and heart rate stability.
+- Continuation of supportive therapies and nutrition adjustments as indicated."
+2156-12-04,45.8,155.24,95.08,52.88,"**Patient Information:**
+- **Age:** 29 days old preterm infant.
+- **Respiratory Support:** On SIMV 24/6, weaned from 25 to 22.
+  
+**Respiratory Parameters:**
+- **Respiratory Rate:** Varies from 25 to 60, mostly in the 30's to 40's.
+- **FiO2:** Initially 50-62%, now adjusted to 40% as tolerated, increased during handling.
+- **Oxygen Saturation (SaO2):** Labile despite treatment; episodes of desaturation and bradycardia noted during care.
+
+**Cardiac Observations:**
+- **Heart Rate:** Between 140-160 bpm, with one episode of bradycardia down to 65 bpm.
+- **Murmur:** Loud heart murmur noted; ongoing monitoring and will consider repeat echocardiogram.
+
+**Additional Observations:**
+- **Breath Sounds:** Coarse, improving post-suctioning, with moderate to large white secretions present.
+- **Electrolytes:** Na 132-136, K 4.7-4.9, Cl 98-101, HCO3 23-24.
+
+**Plan:**
+- Continue close monitoring of respiratory and cardiac status, wean FiO2 as tolerated.
+- Scheduled cranial ultrasound; continuing caffeine therapy and feeding regimen.
+- Monitor for any changes in clinical status and provide education/support for parents."
+2156-12-05,43.09090909090909,155.03125,95.9375,46.0,"**Patient Information:**
+- Age: Infant
+- Medical Condition: Prematurity, chronic lung disease (CLD), on ventilator
+
+**Respiratory Status:**
+- Currently on SIMV mode, 24 breaths/min.
+- FiO2 maintained at 40-60%.
+- Oxygen saturation fluctuates between 70% and 100%, typically around 50% at rest.
+- Spontaneous respiratory rate: 40-50 breaths/min, with moderate retractions.
+- Thick white secretions suctioned every 2-3 hours, moderate to large amounts.
+- Recent venous gas: pH 7.34, pCO2 55 mmHg.
+
+**Heart Rate:**
+- Range: 150-160 beats per minute.
+- Murmur persists.
+
+**Oxygen Requirements:**
+- Labile oxygen requirements observed, needing FiO2 of 70-100% during handling. 
+- Completed a course of Caffeine and Combivent therapy. 
+
+**Plan:**
+- Continue monitoring respiratory status, oxygen saturation, and hematocrit.
+- Evaluate the need for further transfusions if hematocrit remains low."
+2156-12-06,41.76,157.0,95.76,47.84,"**Respiratory Status:**
+- Currently intubated on SIMV settings of 24/6 with a respiratory rate of 22-24 breaths/min.
+- FIO2 fluctuating between 40-60%, increasing to 80-100% during hands-on care.
+- Moderate to large thick white secretions observed, requiring suctioning every 2-4 hours.
+- On Combivent therapy every 8 hours.
+
+**Vital Signs:**
+- Heart rate stable at 150-170 bpm.
+- Blood pressure: 62/33 mmHg (mean arterial pressure: 43 mmHg).
+- Oxygen saturation levels not specified but are variable based on FIO2 adjustments.
+
+**Fluid Status:**
+- Weight: 1090g, decreased by 45g.
+- Significant urine output post-Lasix, averaging 9.6 cc/kg/hr over 8 hours; total output for the day was 4.5 cc/kg/hr.
+
+**Assessment:**
+- No changes in respiratory status; continues monitoring and adjusting FiO2 as tolerated.
+- Ongoing assessment regarding the patient's nutritional and respiratory needs."
+2156-12-07,52.375,162.25,94.91666666666669,49.41666666666666,"**Respiratory Status:**
+- Ventilator settings: SIMV 24/minute, rate 20, FiO2 44-48%. Increased to 100% during care due to labile oxygen saturation with desaturations primarily in the 80s, one significant episode in the 40s requiring stimulation and increased support. 
+- Respiratory rate: 30-50 breaths per minute.
+- Lung sounds clear after suctioning for moderate secretions.
+- Assessment: Labile saturations and evolving Chronic Lung Disease (CLD).
+
+**Heart Rate:**
+- Consistently at 150-160 bpm.
+- Color pink; soft murmur noted.
+
+**SaO2:**
+- Fluctuating saturation levels; primarily in the 80s, requiring close monitoring.
+
+**FiO2:**
+- Currently set at 44-48%, increased to 100% during significant desaturation episode. 
+
+**Plan:**
+- Continue monitoring respiratory status closely and adjust oxygen support as needed. Maintain current ventilator settings and provide daily updates."
+2156-12-08,49.458333333333336,156.91666666666666,96.66666666666669,58.29166666666666,"**Patient Summary:**
+- **Age:** Infant
+- **Date/Time:** NPN 0700-1900
+
+**Respiratory Status:**
+- Intubated and on SIMV ventilator settings 24/6.
+- FiO2 fluctuating between 50-68%, with peaks up to 90% during cares/suctioning.
+- Notable desaturations to 39%, rapid rebound to 100%.
+- Respiratory Rate (RR): 20-80 breaths per minute, averaging mid 40s.
+- Coarse breath sounds with moderate to large white secretions present.
+- Caffeine and Combivent administered; no bradycardia noted.
+- Ongoing monitoring for further respiratory assessment.
+
+**Cardiovascular Status:**
+- Grade 1-3 murmur audible; pulses regular, pink, and well-perfused.
+- Mean Arterial Pressure (MAP): 43-48; blood pressure stable.
+
+**Feeding and Nutrition:**
+- Tube feedings at 140cc/kg/day, well-tolerated.
+- No significant vomiting or aspirates noted; abdominal girth stable at 21cm.
+
+**Assessment and Plan (A/P):**
+- Continue ventilator support; unable to wean FiO2 due to labile saturations.
+- Blood gas analysis scheduled for morning.
+- Echocardiogram and electrolyte checks planned.
+- Close monitoring of respiratory status and care interventions."
+2156-12-09,45.95652173913044,162.82608695652175,95.2608695652174,48.30434782608695,"**Medical Note**
+
+**Respiratory:**
+- Infant on ventilator settings of 24/6 with a rate between 30-50 breaths per minute.
+- FiO2 fluctuating between 36-80%, requiring increased support occasionally during cares.
+- Lung sounds coarse; thick white secretions suctioned every 2-3 hours.
+- Monitored for desaturations to the 70s with recovery observed.
+- Current medications: caffeine and Combivent.
+
+**Cardiovascular:**
+- Heart rate consistently between 140-170 bpm; soft heart murmur present.
+- Blood pressure stable; murmur monitored, no immediate intervention needed.
+
+**Assessment:**
+- Overall infant status stable, actively alert, and demonstrating good sucking reflex.
+- Weight gain of 40g; feeding regimen at 140cc/kg/day of breast milk via gavage.
+- Abdomen benign, appropriate voiding, and yellow seedy stools observed.
+- Electrolytes within normal range; next check scheduled for Monday.
+
+**Plan:**
+- Continue to monitor vital signs, respiratory status, and nutritional needs close, with follow-up on echocardiogram results and electrolyte status."
+2156-12-10,48.61538461538461,165.0,96.5,45.625,"**Patient Information:**
+- **Date:** 2156-12-10
+- **Reason for Exam:** Reintubation
+
+**Ventilation:**
+- Patient intubated with 3.0 Fr ETT secured at 7.5 cm.
+- Respiratory rate: 40-60 breaths per minute.
+- Currently on SIMV: 24 breaths per minute, with a rate of 6.
+- FiO2: initially 100% during re-intubation, currently fluctuating between 38-60%.
+- Improved FiO2 over the past 24 hours, baseline: 35-45%, increased to ~60% for cares/echo.
+- Breath sounds: clear to coarse, with moderate to large white secretions present.
+- Mild intercostal and subcostal retractions noted.
+
+**Cardiac Monitoring:**
+- Heart rate: 150-160 bpm.
+- Murmur remains audible; echocardiogram ordered.
+
+**Summary:**
+- Monitoring of ventilation and respiratory support ongoing.
+- CBG levels good; electrolytes to be rechecked on Monday.
+- Current weight: 1155 grams; enteral feeds at 140 cc/kg/day of 26 calories, advancing to 28 calories.
+- Family meeting scheduled for further discussions on care.
+
+**Plan:**
+- Continue monitoring respiratory and cardiovascular parameters.
+- Reassess FiO2 requirements regularly.
+- Engage in developmental care interventions."
+2156-12-11,52.458333333333336,164.04166666666666,95.41666666666669,46.833333333333336,"**Respiratory Status:**
+- Ventilator: SIMV with settings at 24 breaths/min.
+- FiO2: 0.36-0.48; oxygen requirement fluctuates.
+- Respiratory Rate: 30-60 breaths/min, with baseline retractions.
+- Secretions: Moderate white/cloudy secretions; suctioned, clearing breath sounds after treatment.
+- Additional Support: Ongoing caffeine therapy and Combivent (administered every 8 hours).
+- No bradycardia episodes noted in the last 24 hours.
+- Blood gas assessment planned.
+
+**Cardiovascular:**
+- Heart rate: 140-160 beats per minute.
+- Cardiac murmur auscultated as grade II, associated with known small patent ductus arteriosus (PDA) per echocardiogram.
+
+**Plan:**
+- Continue with respiratory support and monitor for changes.
+- Monitor electrolytes closely; diuretic initiated today.
+- Regular reassessment with blood gas analysis as scheduled."
+2156-12-12,53.0,159.625,96.41666666666669,47.375,"**Respiratory Assessment:**
+- Current Ventilator Settings: SIMV mode at 24 breaths per minute, pressure of 6 cm H2O, requiring FiO2 between 38-52%.
+- Respiratory Rate: 40-60 breaths per minute.
+- Breath Sounds: Coarse with large thick white secretions; suction required.
+- Medications: Caffeine, Diuril, Combivent every 8 hours; no changes made to treatment due to stable condition.
+- Color: Pink, clear breath sounds post-therapy; no respiratory distress noted.
+
+**Cardiovascular:**
+- Murmur persists; echocardiogram indicates small patent ductus arteriosus (PDA). 
+
+**Feeding/Nutrition:**
+- Enteral feeds: 140 cc/kg/day breast milk; well tolerated, no vomiting or significant aspiration.
+- Gastrointestinal Status: Abdomen soft and flat, active bowel sounds; voiding at regular intervals. 
+- Weight: Increased by 40 grams to 1210 grams.
+
+**Plan:**
+- Continue monitoring respiratory and nutritional status closely.
+- Consider PDA management following diuretic therapy. 
+- Schedule ophthalmology exam and family meeting for continued care support."
+2156-12-13,50.41666666666666,163.70833333333334,96.33333333333331,49.458333333333336,"**Patient:** Infant  
+**Date:** [Insert Date]  
+**Department:** Neonatology  
+
+**Respiratory Rate:** 20  
+**FiO2:** 40-55%  
+**Saturation (SaO2):** Occasional drift noted, with monitoring required.  
+
+**Observations:**  
+- Intubated, on SIMV settings 24/6.  
+- Breath sounds are clear with some coarse rhonchi; suctioning performed every 1-2 hours for moderate to large amounts of white secretions.  
+- Notable increased aeration; no decrease in oxygen requirement.  
+- Mild intercostal and subcostal retractions observed.  
+
+**Heart Rate:** 160-180 bpm; occasional tachycardia noted.  
+**Blood Pressure:** 68/40 (mean 51).  
+**Heart Murmur:** Grade II/VI auscultated; peripheral pulses not felt.  
+
+**Plan:**  
+1. Continue monitoring SaO2 and adjust FiO2 as tolerated.  
+2. Maintain current ventilator settings.  
+3. Schedule echocardiogram for cardiac status assessment.  
+4. Continue close monitoring of respiratory and cardiac status.  
+5. Update family on progress and next steps."
+2156-12-14,53.28,163.16666666666666,96.70833333333331,44.56,"**Patient:** [Known lastname 4727]
+
+**Respiratory:**
+- Intubated on SIMV mode at 24/6, respiratory rate 20.
+- FiO2 fluctuates between 35-60%.
+- Increased oxygen needs during feeding; weaning post-feeding.
+- Suctioned every 3-4 hours for moderate to large white secretions.
+- Lung sounds: clear to coarse with intercostal/subcostal retractions.
+- Assessment shows reduced variability in FiO2.
+
+**Cardiovascular:**
+- Heart Rate: 150-170 bpm.
+- Blood Pressure: 62/35, stable.
+- Murmur present.
+
+**Vital Signs:**
+- SaO2: Regular monitoring; occasional desaturation observed requiring FiO2 adjustments.
+
+**Current Medications:**
+- Caffeine, Combivent, Diuril, KCl, and NaCl supplements.
+
+**Assessment & Plan:**
+- Preterm infant with chronic lung disease.
+- Continue current ventilation settings and monitoring of oxygen requirements.
+- Electrolytes to be checked; adjust diuretic as necessary.
+- Echo scheduled; results will inform further treatment plans."
+2156-12-15,55.391304347826086,167.04347826086956,96.17391304347828,47.90909090909091,"**Patient:** Infant  
+**Date:** [Date not specified]  
+
+**Respiratory Status:**  
+- Ventilator settings: SIMV 24/6, rate of 20  
+- Respiratory Rate: 40-80 breaths/min  
+- FiO2: 36-60%  
+- ABG results: pH 7.36, pCO2 65, pO2 42, HCO3 38  
+- Lung sounds: coarse with moderate white secretions, improved post-suctioning  
+- Secretions: thick pale yellow, suctioning yields moderate to large amounts  
+
+**Heart Rate:**  
+- 150-180 bpm, pink and well-perfused with good pulses and brisk capillary refill  
+
+**Observations:**  
+- No spells observed; infant appears generally comfortable  
+- Tolerating tube feeds at 150 cc/kg/day of breast milk  
+- No visible abdominal distress; soft and full abdomen  
+
+**Plan:**  
+- Continue monitoring respiratory status and increase Diuril dosage as needed  
+- Schedule repeat echocardiogram for tomorrow  
+- Ongoing support for family; next family meeting scheduled for [date not specified]"
+2156-12-16,44.04166666666666,160.29166666666666,95.83333333333331,43.28,"**Patient Name:** [**Known lastname 4727**]  
+**Date:** [**NPN 0700-1900**]  
+
+**Respiratory Rate:**  
+- 28-40 breaths per minute, with episodes of 30-70 post-suctioning.  
+- Currently on SIMV mode at 20 breaths per minute.  
+- Frequent suctioning required for thick secretions.  
+
+**Heart Rate:**  
+- Stable between 150-160 bpm.  
+- Variations observed but remain within normal limits.  
+
+**SaO2 (Oxygen Saturation):**  
+- FiO2 setting between 35-68%.  
+- Oxygen delivered via nasal cannula at 200ccs.  
+- Slight improvement in oxygen requirement noted; less lability compared to last week.  
+
+**FiO2 (Fraction of Inspired Oxygen):**  
+- Ranges from 34-60%, with current requirements between 35-70%.  
+- Temporary increases to ~60% during cares.  
+
+**Plan:**  
+- Continue monitoring respiratory and cardiovascular status closely.  
+- Wean respiratory support as tolerated.  
+- Echocardiogram results pending for further evaluation.  "
+2156-12-17,51.76,162.20833333333334,96.625,49.52,"**Patient Summary:**
+- **Diagnosis:** Chronic lung disease
+
+**Respiratory Care:**
+- Intubated on SIMV settings 24/6, having respiratory rate of 18-20.
+- FiO2 fluctuating between 35-60%, currently at 42-50% at rest; increased to 60% during cares.
+- SpO2 maintained at 93-99%.
+- Respiratory rates in the 40's-60's with mild retractions noted.
+- Reintubated after self-extubation; 3.0 ETT taped at 8 cm at the lip.
+- Moderate amounts of thick white secretions suctioned.
+- Plan to decrease ventilator rate by 1 today and wean rate every other day.
+
+**Heart Rate:**
+- Heart rate measured at 150-170 bpm, soft murmur present.
+- Blood pressure noted at 76/28 (46 mmHg).
+
+**Assessment:**
+- Notable improvement in respiratory function; patient appears comfortable while on vent support.
+- Weight gain monitoring ongoing, currently on 32 cal.
+
+**Plan:**
+- Continue close monitoring of respiratory function and cardiovascular status.
+- Regular suctioning every 2-3 hours; ongoing medications include Diuril, Combivent, sodium, and potassium chloride.
+
+**Family Communication:**
+- Updates provided to mother regarding ECHO results and overall condition."
+2156-12-18,52.91666666666666,163.41666666666666,96.54166666666669,46.66666666666666,"**Respiratory Status:**
+- On SIMV with settings: 21/6, rate 18, FiO2 31-60%.
+- Respiratory rate: 30-60.
+- O2 saturation: 96-99%.
+- Suctioning required for large, cloudy secretions via endotracheal tube.
+- No apnea/bradycardia spells reported.
+- Assessment: Stable; noted respiratory spell requiring hand bagging.
+
+**Cardiovascular Status:**
+- Heart Rate: 150's-170's.
+- Blood Pressure: 58/46; Mean BP: 50.
+- Soft murmur present, child well-perfused and pink.
+- Assessment: Stable cardiovascular status.
+
+**Fluid and Electrolyte:**
+- Weight: 1250 grams.
+- Receiving NaCl and KCl; monitoring fluid and electrolyte balance.
+
+**Plan:**
+- Wean respiratory rate every other day.
+- Continue current medications: Diuril, Caffeine.
+- Continuous suctioning every 2-3 hours for secretion management.
+- Ongoing assessment of respiratory and cardiovascular needs."
+2156-12-19,51.30434782608695,163.65217391304347,96.21739130434784,52.29166666666666,"**Patient Summary:**
+- **Age:** Newborn
+- **Weight:** 1260g (increased by 10g)
+- **Respiratory Status:**
+  - On SIMV mode at 24 breaths/minute, current rate fluctuating between 30-60 breaths per minute with pressure support of 6 cm H2O.
+  - FiO2 levels fluctuated between 42-70%; requires frequent suctioning for thick secretions.
+  - Noted coarse breath sounds and desaturation episodes (down to 59% and 69%), improved to high 90s with increased FiO2.
+  - Ventilator rate reduced to 17 breaths/minute post-kangaroo care; no apnea or bradycardia observed.
+  - Monitoring of arterial blood gases scheduled.
+
+- **Cardiovascular Status:**
+  - Heart rate consistently between 160-170 beats per minute; soft murmur present; patient well-perfused.
+
+- **SaO2:** 
+  - Episodes of desaturation, requiring oxygen adjustments; monitoring needed.
+
+- **Feeding and Nutrition:**
+  - Feeding volume of 130 cc/kg/day of breast milk with Promod, administered over 40 minutes.
+
+**Plan:**
+- Continue to monitor respiratory and cardiovascular status closely; adjust FiO2 and ventilator settings as necessary.
+- Maintain feeding regimen and evaluate for tolerance.
+- Support growth and development; involve parents in care and provide updates."
+2156-12-20,54.54166666666666,158.91666666666666,96.79166666666669,47.333333333333336,"**Patient:** Neonate  
+**Date:** [Insert Date]  
+**Time:** [Insert Time]  
+
+**Respiratory Status:**  
+- Ventilator: SIMV at 24 breaths per minute, pressure support of 6 cm H2O.  
+- FiO2: Ranging from 40-47%, increased to 60% during cares.  
+- Respiratory Rate: Fluctuating between 40-60 breaths per minute.  
+- SaO2: Between 90-99%, no desaturations noted.  
+- Lung sounds: Initially coarse, improved to clear.  
+- Secretions: Moderate to large amounts of cloudy white, suctioning performed every 2-4 hours.  
+- Current Medications: Caffeine, diuril, combivent as needed.  
+- Blood Gas: pH 7.38, CO2 67, HCO3 35, PO2 41, Base Excess 10.  
+- Plan: Continue monitoring and wean settings as tolerated.  
+
+**Cardiovascular:**  
+- Heart Rate: 150-160 beats per minute.  
+- Blood Pressure: 60-63/35 mmHg.  
+- Murmur: Soft systolic, consistent with previous exams.  
+- Assessment: Pink, well-perfused, brisk capillary refill.
+
+**Nutrition:**  
+- Tolerating feeds at 130 cc/kg/day of 32 cal with promod.  
+- Abdominal examination benign, girth at 22 cm, soft, round, with positive bowel sounds.  
+- Ongoing supplementation with Vitamin E, Iron, Sodium Chloride, and Potassium Chloride.  
+
+**Growth/Development:**  
+- Weight: 1315g, increase of 55g.  
+- Stable temperature, positioned every 4 hours.  
+- Alert and active during care.
+
+**Plan:**  
+- Continue monitoring respiratory, nutritional needs, and cardiovascular status.  
+- Evaluate and adjust care as necessary.  
+- Family updated on patient's condition.  
+- Schedule for upcoming blood gas analysis."
+2156-12-21,53.333333333333336,161.16666666666666,96.20833333333331,42.66666666666666,"**Respiratory Status:**
+- Intubated on SIMV settings of 24/6; respiratory rate (RR) decreased from 17 to 16.
+- FiO2 requirement: 32-51%, maintaining SaO2 levels between 89-98%.
+- Respiratory rate fluctuated between 30-70 breaths per minute, basal intercostal/subcostal retractions noted.
+- Coarse breath sounds with rhonchi, improved with suctioning for moderate to large secretions.
+- Two significant desaturations, related to secretions; one apneic spell recorded.
+- Currently receiving caffeine, diuretic (Diuril), and combivent as needed.
+- Plan: Continue monitoring RR and wean FiO2 as tolerated. 
+
+**Cardiovascular Assessment:**
+- Heart Rate (HR): 150-160 bpm; Blood Pressure (BP): 55/35 mmHg.
+- Pink appearance, well perfused; brisk capillary refill. 
+- Soft 3/6 systolic murmur noted.
+- Plan: Monitor cardiovascular status closely."
+2156-12-22,53.95652173913044,159.75,96.08333333333331,41.958333333333336,"**Respiratory Status:**
+- Patient on SIMV ventilation, rate 16 breaths per minute.
+- FiO2 range: 30%-40%, increases during care.
+- SaO2: 92-99% at rest.
+- Respiratory rate: 40-80 breaths per minute, with suctioning needed for moderate to large amounts of cloudy secretions.
+- Breath sounds: coarse, improving post-suctioning.
+- Notable apneic spell with heart rate dropping to 80 bpm and SaO2 to 50%, resolved with suctioning.
+
+**Cardiovascular Status:**
+- Heart rate: 150-170 bpm, soft heart murmur noted.
+- Well-perfused with pink coloration.
+- Continuous monitoring required."
+2156-12-23,50.6,159.125,94.25,43.24,"**Patient Information:**
+- Infant, 80 days old
+- Gestational Age: 32 weeks CGA
+- Weight: 1380 grams, gained 10 grams since last measurement
+
+**Respiratory Status:**
+- Initial ventilation settings: 24/6 with FiO2 35-45%
+- Currently on CPAP at 7 cm H2O with FiO2 34-55%
+- Respiratory Rate (RR): 30-80 breaths per minute, varying with activity
+- Breath sounds: coarse to clear, suctioning required for thick white secretions
+- Self-extubated at 1345; oxygen saturation dropped to 70-80’s, facial CPAP applied
+- No apnea spells since extubation; slight increase in subcostal retractions
+
+**Cardiovascular Status:**
+- Heart rate: 150-170 bpm, stable
+- Soft murmur audible, normal S1S2 sounds
+- Blood pressure: stable at 55/29 mmHg
+- Perfusion: well perfused, pink
+
+**Assessment/Plan:**
+- Monitor FIO2 requirement and work of breathing (WOB)
+- Labs planned tomorrow for electrolytes and hematocrit
+- Continue caffeine, diuril, and PRN combivent medications
+- Follow-up on respiratory support weaning and monitor for desaturations
+
+**Feeding/Nutrition:**
+- Total fluid: 130 cc/kg/day of breast milk with promod
+- Abdomen: round and soft, active bowel sounds, normal girth
+- Eating tolerance well maintained; 1 cc maximum aspirate noted
+
+**Development:**
+- Infant is alert and active, engaging with care; no significant instability noted"
+2156-12-24,52.75,158.17391304347825,95.30434782608695,40.958333333333336,"**Respiratory Assessment:**
+- Respiratory rate: 30-70 breaths per minute.
+- On NP CPAP at 7 cm H2O.
+- FiO2: 35-49%, increased during care activities.
+- Breath sounds: clear, with moderate to large amounts of secretions.
+- ABG: pH 7.37, pCO2 62, PO2 61; no changes made to ventilation.
+- Occasional drift in saturation, generally self-resolving desaturations.
+- No episodes of apnea or bradycardia observed.
+- Monitoring continues with close attention to respiratory status.
+
+**Cardiovascular Assessment:**
+- Heart rate: 140-160 bpm.
+- Soft murmur audible.
+- Skin: pale pink, well-perfused.
+- Hematocrit: 28.6% (monitoring ongoing).
+
+**General Observations:**
+- Patient stable, alert, and comfortably engages with care.
+- Continuing medications: caffeine, diuril, combivent as needed.
+- Weight: 1395g (increased by 15g).
+- Electrolytes: Sodium 127, Potassium 3.2, Chloride 88, Bicarbonate 30. Follow-up in 2 days for hyponatremia.
+
+**Plan:**
+- Ongoing monitoring of respiratory status and electrolytes.
+- Potential weaning of oxygen as tolerated.
+- Regular weight assessments and parental involvement in care encouraged."
+2156-12-25,58.083333333333336,159.83333333333334,95.91666666666669,39.8,"**Patient Information:** 
+- Former 25-week gestation infant, Day of Life #50 
+- Diagnoses: Chronic Lung Disease (CLD), growth and nutrition issues 
+
+**Respiratory Status:** 
+- On NP CPAP at 7 cm H2O, FiO2 32-55%. 
+- Respiratory Rate: 30-60 breaths/min. 
+- Oxygen saturation (SaO2): 90-97%. 
+- Breath sounds: Coarse to clear bilaterally, mild retractions present. 
+- NS suctioning performed; large yellow and clear secretions noted. 
+- Occasional desaturations managed with suctioning and position changes.
+
+**Cardiovascular Summary:** 
+- Soft murmur noted on left sternal border; small Patent Ductus Arteriosus (PDA). 
+
+**Nutritional Status:** 
+- Trophic feeds: 130 cc/kg/day of breast milk, no spit-ups observed. 
+- Weight: Increased to 1420 grams. 
+- Nutrition labs scheduled for tomorrow.
+
+**Developmental Status:** 
+- Temperature: Stable, alert status during care. 
+- Engaged in developmental activities; sucking on pacifier intermittently. 
+
+**Plan:** 
+- Continue current respiratory support and nutritional monitoring. 
+- Scheduled family meeting for updates."
+2156-12-26,55.4,161.5,95.96666666666668,35.73076923076923,"**Patient:** [**Known lastname 4727**]  
+**Date:** [**Month/Year (2)**]  
+
+**Respiratory:**
+- On NP CPAP at 7 cm H2O with FiO2 ranged from 25-38%.
+- Respiratory rate: 30-70 breaths per minute.
+- Coarse lung sounds, mild intercostal and subcostal retractions noted.
+- Moderate thick white/yellow secretions in NP tube.
+- Occasional drifts in O2 saturation observed; minimum highs in the high 80s.
+- Assessment: Stable, with close monitoring and weaning of FiO2 as tolerated.
+
+**Cardiovascular:**
+- Heart rate: 140-170 bpm, with a soft murmur noted.
+- Hematocrit: 27.5, transfusion of PRBCs scheduled.
+
+**Vital Signs:**
+- Blood pressure: 82/43 mmHg.
+- Temperature stable; the infant is alert and responds well to care.
+
+**Plan:**
+- Continue monitoring respiratory and cardiac status.
+- Adjust treatment based on ongoing assessments.
+- Follow-up on scheduled transfusion and electrolyte levels on Tuesday."
+2156-12-27,49.84615384615385,156.5,95.96153846153848,31.68,"**Respiratory Status:**  
+- Currently on CPAP at 7 cmH2O, weaning to 6 cmH2O.  
+- FiO2 requirements: 23-40%.  
+- Respiratory Rate: 30-60 breaths/min, with coarse lung sounds; no apnea or bradycardia noted.  
+- Suctioned for thick, yellow secretions; improvement in breath sounds observed.  
+
+**Cardiovascular Status:**  
+- Heart Rate: 140-160 bpm, well-perfused, no murmurs audible.  
+- Blood Pressure: 78/50 mmHg.  
+
+**Monitoring and Care Plan:**  
+- Continuous monitoring of respiratory support and heart rate.  
+- Administer caffeine and diuretics as ordered.  
+- Plan to monitor and wean FiO2 based on tolerance.  
+- Electrolytes to be drawn tomorrow."
+2156-12-28,49.41666666666666,151.5,95.16666666666669,31.72,"**Respiratory Assessment:**
+- Patient: Infant on nasal CPAP at +6 cm H2O.
+- FiO2: 27-30%.
+- Respiratory rate: Fluctuates between 30's and 60's; exhibits mild intercostal/subcostal retractions.
+- Lung sounds: Coarse but clear after suctioning; good air entry.
+- No apnea or bradycardia episodes noted.
+
+**Cardiovascular Assessment:**
+- Heart rate: 140-170 bpm.
+- Mild murmur auscultated; well-perfused and pink appearance.
+- Monitoring ongoing.
+
+**Plan:**
+- Continue current respiratory support, closely observe for secretions, and maintain monitoring of cardiovascular status."
+2156-12-30,49.91666666666666,158.04166666666666,96.20833333333331,31.70833333333333,"**Respiratory Status:**
+- **Ventilation:** On NP CPAP at 5 cm H2O, requiring 28-43% FiO2.
+- **Respiratory Rate:** 30-50 breaths/minute; mild subcostal retractions noted.
+- **Lung Sounds:** Clear and equal; thick, cloudy secretions observed; suctioned Q4H.
+- **Medications:** Caffeine and Diuril as ordered; no apneic spells noted.
+
+**Cardiovascular Status:**
+- **Heart Rate:** 140-160 bpm; soft heart murmur auscultated.
+- **Blood Pressure:** Mean blood pressure 62, normal pulses and good perfusion.
+
+**Monitoring Plan:**
+- Continue observing respiratory status and nutritional needs.
+- Wean FiO2 requirements as tolerated.
+- Follow-up on eye exam scheduled in one week; potential trial off CPAP next week."
+2156-12-31,45.708333333333336,165.25,96.16666666666669,30.956521739130437,"**Respiratory Rate and Care**:
+- Currently on CPAP 5 with FiO2 fluctuating between 26-38%.
+- Respiratory rate (RR) recorded at 30-50 breaths per minute, stable at 30-40 breaths per minute during the day.
+- Secretions are large, thick, tan, and white; suctioning required.
+- Mild subcostal retractions noted; no apneic spells observed.
+- Patient on caffeine and diuril, with continuous monitoring planned.
+
+**Oxygen Saturation**:
+- Oxygen saturation (SaO2) levels between 94-99% throughout the shift.
+
+**Heart Rate**:
+- Heart rate consistently between 140-160 bpm, with a soft murmur noted.
+
+**Plan**:
+- Continue monitoring respiratory and cardiovascular status.
+- Trial to wean off CPAP next week based on stability."
+2157-01-02,58.75,168.875,95.4375,50.0625,"**Medical Notes:**
+
+- **Respiratory Rate:** 50-60 breaths per minute, no respiratory distress noted; brief periods of oxygen desaturation self-resolved.
+- **Heart Rate:** 160-170 bpm; continuous soft systolic murmur observed, patient well-perfused.
+- **SaO2:** Continuous monitoring, stable with intermittent desaturation.
+- **FiO2:** Currently on nasal cannula with 600 cc at 40-50% oxygen. 
+
+**Plan:** 
+- Continue monitoring for signs of increased work of breathing or need for CPAP support. Consider initiating positive pressure offers if stability on NCO2 persists."
+2157-01-03,63.64,163.64,93.68,55.52,"**Respiratory Assessment:**
+- Infant on nasal cannula at 600cc flow, FiO2 between 50-60%.
+- Oxygen saturation maintained at 80-97%, with occasional dips.
+- Lung sounds clear with mild upper airway congestion; moderate yellow secretions noted from nares.
+- Respiratory rate predominantly between 30-60 breaths per minute, with occasional tachypnea in the 70s-80s.
+- No respiratory spells or bradycardia observed.
+- Continuing medications: caffeine and Diuril.
+- Plan: Monitor and potentially wean respiratory support.
+
+**Cardiovascular Assessment:**
+- Heart rate ranges from 150 to 170 bpm with a soft audible murmur.
+- Skin pink, warm, and well-perfused.
+- Plan: Continue monitoring cardiovascular status."
+2157-01-04,61.458333333333336,161.70833333333334,95.25,77.29166666666667,"**Medical Note**
+
+**Date:** [Insert date]
+
+**Respiratory:**
+- Patient on oxygen via nasal cannula at 600cc flow, requiring FiO2 of 55-65%.
+- Respiratory rate fluctuates between 30-70 breaths per minute, occasionally reaching 80.
+- Lung sounds clear bilaterally; minor subcostal retractions noted.
+- No bradycardias or apneas recorded.
+- Currently on caffeine; continue monitoring.
+
+**Cardiac:**
+- Heart rate occasionally drifts to 80 bpm; stable overall.
+
+**Feeding/Nutrition:**
+- Total fluid intake: 130cc/kg/day of breast milk.
+- No vomiting; continues to tolerate gavage feedings well.
+- Abdomen soft with active bowel sounds; voiding observed.
+
+**Development:**
+- Stable temperature in an open crib; patient alert and active.
+- Engaging behaviors such as sucking on pacifier and bringing hands to face noted.
+
+**Clinical Summary:**
+- Weight: 1.705 kg with a gain of 90 grams.
+- Continue monitoring respiratory support, weight gain, and feeding tolerance.
+
+**Next Steps:**
+- Follow up on eye examination and respiratory flow adjustments as tolerated."
+2157-01-05,61.130434782608695,164.2173913043478,95.04347826086956,100.0,"**Medical Note:**
+
+**Date:** [Insert date]  
+**Location:** NICU  
+
+**Respiratory Status:**
+- Oxygen: Continuous via nasal cannula at 200cc flow, FiO2 100%.
+- Respiratory Rate: 40-70 breaths per minute.
+- Oxygen Saturation: Occasional drops to the 80s, no significant spells noted.
+- Lung Sounds: Clear bilaterally.
+- Observations: Mild subcostal retractions; no apnea, bradycardia, or desaturations.
+
+**Heart Rate:**
+- Heart sounds normal (S1S2) with no murmurs observed.
+
+**Assessment:**
+- Respiratory status stable with ongoing monitoring required.
+- Overall condition is stable, no significant distress."
+2157-01-06,68.54166666666667,164.625,94.83333333333331,100.0,"**Patient ID:** [**2157-1-6**]  
+**Date & Time:** [Date not specified], 9:31 AM  
+**Location:** [**Hospital 4**]  
+**Medical Condition:** Infant with premature birth and chronic lung disease (CLD).
+
+**Respiratory Rate:** 
+- Fluctuating between 30-70 breaths/min. 
+- Intermittent tachypnea observed throughout the day. 
+
+**Heart Rate:** 
+- Not explicitly documented; vital signs noted as stable.
+
+**SaO2 Levels:** 
+- Maintains oxygen saturation between 93-99%, with occasional drops to the 80s, especially drifting to high 70s and low 80s.
+
+**FiO2 Settings:** 
+- On low flow nasal cannula (NC) receiving 200cc at 100% FiO2, adjusted to 250cc flow. 
+- Currently on NCO2 at 500 cc with 100% FiO2. 
+
+**Observation Summary:** 
+- Increased work of breathing (WOB) noted, with nasal secretions observed. 
+- Clear lung sounds but upper airway congestion detected. 
+- No significant spells detected; infant appears alert and active, displaying good tone and respiratory status.
+
+**Plan:**
+- Continue to monitor respiratory status, including oxygen saturation and work of breathing.  
+- Maintain current FiO2 settings and assess for any necessary adjustments."
+2157-01-07,59.41666666666666,164.0,95.45833333333331,100.0,"**Patient:** Infant  
+**Date:** [Insert Date]
+
+**Respiratory Status:**  
+- Oxygen support via nasal cannula (NCO2), 100% FiO2 at 250-500cc flow.  
+- Respiratory rate: 30-70 breaths per minute, fluctuating.  
+- Clear and equal lung sounds with mild upper airway congestion; intercostal/subcostal retractions noted.  
+- Suction performed for large bloody secretions.  
+- No apnea spells, currently on caffeine.  
+- Monitor for signs of increased work of breathing (WOB).
+
+**Cardiovascular Status:**  
+- Soft heart murmur noted.
+
+**Nutritional Management:**  
+- Total feeds (TF) at 130cc/kg/day of breast milk.  
+- Tolerating NG feeding well over 40 minutes; no emesis.  
+- Maximum aspirate: 4.2 cc with few flecks.  
+- Average intake over three days: ~130 cc/kg, equating to 139 Kcals/kg and 3.6 g/kg protein.  
+- Normal bowel sounds, soft and non-distended abdomen; adequate urine output; no stools noted.
+
+**Growth & Development:**  
+- Current weight: 1795g (up 40g).  
+- Engaged and interactive; shows strong self-soothing behaviors.  
+- Temperature stable in open crib; displays good tone and activity.
+
+**Plan:**  
+- Continue to monitor respiratory status, feeding tolerance, and growth.  
+- Evaluate transition to oral feeding next week.  
+- Maintain statistics on nutrition and weight gain.  
+- Engage family in care decisions and updates."
+2157-01-08,68.0,163.5,93.70833333333331,100.0,"**Medical Notes Summary**
+
+**Patient Information:** Infant, 34 weeks gestational age, diagnosed with Chronic Lung Disease (CLD).
+
+**Respiratory Status:**
+- Lung sounds clear with mild upper airway rhonchi; lung bases clear.
+- Respiratory rate: 30-90 breaths per minute with mild-moderate subcostal retractions.
+- Oxygen therapy ongoing via nasal cannula at 250cc flow, requiring 100% FiO2.
+- No respiratory spells observed; patient stable on current oxygen support.
+- Episodes of arousal requiring moderate stimulation noted.
+- Plan: Continue monitoring respiratory status.
+
+**Heart Rate:** Not explicitly documented.
+
+**Oxygen Saturation (SaO2):** Not explicitly documented.
+
+**Nutritional Status:**
+- Total formula feed rate: 130cc/kg/day, tolerance good with no vomiting, under ongoing monitoring.
+- Urine output: 3.1cc/kg/hour; weight increased by 25 grams (current weight: 1820 grams).
+- Feeding plan includes nutrition via NG tube; abdominal examination shows benign findings.
+- Current regimen includes diuril and caffeine, with plans to discontinue caffeine.
+
+**Plan:**
+- Continue monitoring respiratory and nutritional status, maintain support for infant and family involvement."
+2157-01-09,64.33333333333333,168.58333333333334,94.25,100.0,"**Patient Information:**
+- Infant on non-invasive continuous oxygen (NCO2) via nasal cannula at 150-200 cc/min, FiO2: 100%.
+- Respiratory rate: 30-80 breaths per minute, occasionally tachypneic; currently 60-80 breaths per minute.
+- Lung sounds: clear, pink color, no abnormal breath sounds; mild to moderate subcostal retraction noted.
+- No apnea episodes observed.
+- Previously experienced one mild bradycardic event.
+- On diuretics with ongoing vitamin E and iron supplements. 
+
+**General Assessment:**
+- Condition: Stable, pink, well-perfused.
+- Weight: 1890g (+70g).
+- Temperature: Stable in open crib.
+- Physical exam: Alert, active with good tone, soft murmur noted on cardiac exam.
+
+**Management Plan:**
+- Continue monitoring cardio-respiratory status closely.
+- Gradual weaning of oxygen flow as tolerated.
+- Ongoing assessment of growth and stability."
+2157-01-10,57.11538461538461,162.26923076923077,94.6153846153846,91.66666666666669,"**Patient Information:**
+- Premature infant (DOL 66, CGA 35 weeks) on nasal cannula (NCO2) with 150-300 cc flow, FiO2 100%.
+
+**Respiratory Status:**
+- Respiratory Rate (RR): 50s-60s, occasionally reaching 80s.
+- Clear and equal breath sounds; comfortable tachypnea noted.
+- No respiratory spells observed.
+- Currently on Diuril and fluid restriction.
+
+**Heart Rate:**
+- Soft murmur auscultated; blood pressure recorded at 62/39, mean 47.
+
+**Oxygenation:**
+- Maintaining FiO2 at 100%.
+
+**Feeding and Elimination:**
+- Receiving 32cal breast milk with promod via gavage every 4 hours.
+- Abdomen soft with active bowel sounds; no stool for over 36 hours; voiding observed.
+- Weight gain of 30 grams documented.
+
+**Plan:**
+- Continue monitoring respiratory and nutritional progress.
+- Attempt oral feeding tomorrow. 
+- Administer glycerin as needed for stool."
+2157-01-11,66.79166666666667,159.875,95.54166666666669,100.0,"**Medical Note:**
+
+**Patient Information:**
+- Infant, currently in NCO2 with 200-300cc flow, 100% FiO2
+- Weight: 1.980 kg, increased by 60 grams; current weight: 2133 grams
+
+**Respiratory Status:**
+- Respiratory Rate: 50-70s, increases to 80s during straining; noted range 30-80 s/min
+- Oxygen saturation (SaO2): 92-98%, >95% but drifts to mid 80s when held
+- Lung sounds clear, upper airway congestion noted; mild intercostal/subcostal retractions observed
+- No apnea or bradycardia observed
+- Blood Pressure: 75/41, Mean Arterial Pressure: 53
+- Plan: Gradually wean off oxygen as tolerated
+
+**Nutritional Status:**
+- Total feed: 130cc/kg/day of breast milk with supplementation (Promod)
+- Gavage feeding of 43cc over 50 minutes, no spit-ups, maximum aspirate of 2.8cc
+- Abdomen: soft, non-distended; girth 25-25.5 cm; positive bowel sounds
+- Voiding with each diaper change; last stool earlier today
+- Plan to draw electrolytes, hematocrit, and reticulocyte count
+
+**Developmental Observations:**
+- Infant is alert and active, engaging during care
+- Fontanels soft and flat; enjoys sucking on pacifier and bringing hands to face
+
+**Other Assessments:**
+- Skin: small red rash on right chest with white raised spots; RN notified, NP informed
+- Small umbilical hernia noted
+- General condition: pink, alert, awake, appropriate for age
+- Soft murmur present along left sternal border
+
+**Plan:**
+- Continue to monitor respiratory status, nutrition intake, and overall development
+- Immunizations to be initiated
+- Possible attempt at oral feeding in the afternoon  
+
+**Communication:** 
+- Mother updated on infant’s status, engaged in care discussions  
+
+**Date of Note:** Day of Life (DOL) 67, Corrected Gestational Age (CGA) 35 weeks 1 day  "
+2157-01-12,54.333333333333336,164.04166666666666,93.375,99.16666666666669,"**Vital Signs:**
+- Respiratory Rate: 50-80 breaths per minute, occasional tachypnea with mild subcostal retractions noted.
+- Heart Rate: Recorded at 45 bpm (bradycardia) with resolution after mild stimulation; subsequent heart rate noted at 59 bpm.
+- SaO2: Ranges between 91-99%, occasional dips to low 80s that resolved quickly.
+- FiO2: Currently requiring nasal cannula oxygen at 200-300 cc, with variations to the 40s-70s, occasionally noted in the 80s; plan to wean as tolerated. 
+
+**Observations:**
+- Mild upper airway congestion observed.
+- Mild nasal flaring during feeding.
+- Breath sounds clear with good air entry.
+
+**Predictions:**
+- Continue monitoring respiratory status and oxygen saturation.
+- Consideration for further weaning of supplemental oxygen based on tolerance and observed patterns."
+2157-01-13,62.875,161.54166666666666,95.16666666666669,100.0,"**Date:** [Date of note]  
+**Patient ID:** [**Year (4 digits)**]  
+**Admission Date:** [**1-12**]  
+**Gestational Age:** Approximately 36 weeks  
+
+**Respiratory:**  
+- On nasal cannula (NCO2) at 300cc flow with 100% FiO2, maintaining SaO2 of 90-92%.  
+- Respiratory rate between 40-80 breaths per minute, exhibiting transient tachypnea with subcostal retractions.  
+- Lung sounds clear; no apnea or bradycardia events noted in the last night.  
+
+**Cardiovascular:**  
+- Soft murmur noted at left lower sternal border.  
+- Blood pressure: 80/39 mmHg (mean arterial pressure: 52 mmHg).  
+- Color: pale pink with good perfusion.  
+
+**Fluid and Electrolytes:**  
+- Weight: 2055 grams (increased by 15 grams).  
+- Total fluid intake: 130cc/kg/day; supplemented with NaCl, KCl, FeSO4, and Vitamin E.  
+- Bowel movement reported once; voiding present, no stool for 1.5 days.  
+
+**Growth and Development:**  
+- Temperature stable in crib; patient appears active and alert.  
+- Feeding coordinated with successful bottle feeding once; abdomen soft and non-distended.
+
+**Assessment:** Patient is stable with appropriate respiratory support and feeding tolerance.  
+**Plan:** Continue monitoring respiratory and feeding status, check electrolytes on [**1-15**], and support family education regarding immunizations."
+2157-01-14,66.07692307692308,162.24,95.6,95.6,"**Medical Note:**
+
+**Patient:** Neonate  
+**Age:** DOL 70 CGA 35 5/7 weeks  
+**Weight:** 2100 grams (increase of 45 grams)  
+
+**Respiratory Status:**
+- **FiO2:** Currently on nasal cannula providing 80-100% FiO2 at 200 cc. Increased to 500 cc with 100% FiO2 during feeding.
+- **Respiratory Rate:** Ranges from 50-80 breaths per minute, observed tachypnea up to 90 during oral feeding. 
+- **Oxygen Saturation (SaO2):** Goal between 92-94%. Heart rate and SaO2 dropped to the 70s during feeding spells, resolved with brief positive pressure oxygen.
+- **Work of Breathing:** Increased work of breathing observed during feeding with moderate retractions; baseline subcostal retractions noted.
+
+**Plan:**
+1. Closely monitor respiratory status and oxygen requirements.
+2. Wean oxygen as tolerated to maintain SaO2 levels between 92-94%.
+3. Limit bottle feedings to 2 times per day."
+2157-01-15,59.84615384615385,164.3846153846154,95.34615384615384,80.96153846153847,"**Patient:** Infant  
+**Date/Time:** [Insert date/time]  
+**Shift:** 0700-1900  
+
+**Respiratory Rate:** 
+- Range: 40-80 breaths per minute.
+- Occasional drops in saturation to the 80s, resolved with bottle removal.
+- Mild intercostal and subcostal retractions observed.
+
+**Oxygen Saturation (SaO2):** 
+- Maintained between 92-96%, with a noted desaturation to 82% at 0245 associated with reflux.
+- Required oxygen support with a flow of 400cc at 100% FiO2 for 15 minutes, later weaned to 200cc with FiO2 ranging from 65-100%.
+
+**Heart Rate:** 
+- Ranged from 140-170 bpm, with regular rhythm and well-perfused extremities.
+
+**FiO2:**
+- Initially 100% during oxygen therapy, weaned to maintain SaO2 > 94% with 200-400cc flow during feeding.  
+
+**Clinical Summary:**
+- Mild upper airway congestion resolved spontaneously.
+- Monitoring for apneic events, especially during feeds.
+- Continued adjustments to respiratory support based on clinical status and feeding tolerances.  
+
+**Plan:**
+- Continue current respiratory management and feeding protocols.  
+- Maintain vigilant observation for apneic episodes.  
+- Monitor oxygen saturation and adjust oxygen flow as necessary.  "
+2157-01-16,70.75,163.75,95.29166666666669,83.33333333333333,"**Patient Summary:**
+- Infant in NICU, receiving supplemental oxygen at 70-100% via nasal cannula.
+- Oxygen flow increased from 200cc to 400cc; maintaining oxygen saturation (SaO2) between 92-97%. 
+- Respiratory rate (RR) fluctuates between 60-80 bpm, rising to 90 bpm post-feeding.
+- Mild to moderate subcostal retractions noted; no apnea or bradycardia during feeding except one episode (HR 58, SaO2 78) during gavage feeds, resolving after a burp.
+
+**Assessment:**
+- Diagnosis: Chronic Lung Disease (CLD).
+- Stable condition with ongoing upper airway congestion.
+
+**Plan:**
+- Continue to monitor oxygen requirements, FiO2, and respiratory status.
+- Wean oxygen as tolerated and support nutritional feeds as scheduled, observing for reflux and any further bradycardia."
+2157-01-17,65.33333333333333,163.125,94.91666666666669,77.91666666666667,"**Respiratory Status:**
+- On nasal cannula with O2 flow adjusted from 200 cc/min (FiO2 65-80%) to 400 cc/min (100% FiO2) during feeding due to increased work of breathing.
+- Oxygen saturation (SaO2) monitored, with drift to 89% during feeds, resolving with rest; current saturations at 92-98%.
+- Respiratory rate varies from 60-70 breaths per minute at rest, increasing to 80-90 with feeding; mild to moderate subcostal retractions noted.
+- Lung sounds slightly coarse, with upper airway congestion observed.
+
+**Hemodynamic Observations:**
+- Blood pressure: 67/34 mmHg (mean 51 mmHg).
+- Currently on Diuril and potassium chloride (KCl) supplements.
+
+**Feeding Regimen:**
+- Receiving 130 cc/kg/day of breast milk supplemented with promod, with successful full volume feeds and no spitting noted.
+
+**Continuous Monitoring Plan:**
+- Ongoing assessment of respiratory status and oxygen requirements.
+- Monitoring of weight gain and feeding tolerance."
+2157-01-18,61.41666666666666,164.25,94.66666666666669,82.29166666666667,"**Medical Notes**
+
+**Date:** [Insert Date]  
+**Patient:** Infant  
+**Weight:** 2175 g (up 35 g)  
+
+**Respiratory Status:**  
+- Current oxygen support: NC O2 at 200 cc flow, requiring 70-90% FiO2 to maintain SaO2 > 93%.  
+- Respiratory rate: 50-70 breaths per minute.  
+- During feeds, requires 400 cc of 100% FiO2; work of breathing increased observed during feeds.  
+- Lung sounds: Clear, mild subcostal retractions noted.  
+- Oxygen saturation ranges from 92-100%, FiO2 adjusted accordingly.  
+- Moderate thick yellow secretions suctioned from nares once.  
+
+**Cardiovascular Status:**  
+- Heart sounds show a grade 1-3 murmur.  
+- Peripheral pulses: +2, pink, regular rate and rhythm.  
+
+**Plan:**  
+- Continue to monitor respiratory status, wean FiO2 as tolerated, and assess work of breathing.  
+- Ongoing assessments of feeding, weight gain, and respiratory support requirements."
+2157-01-19,59.958333333333336,163.0,96.5,68.33333333333333,"**Medical Note**
+
+**Patient Information:**
+- Day 75 of life
+- Weight: 2205 grams (increase of 30 grams)
+
+1. **Respiratory Status:**
+   - Current Support: Nasal cannula (NC) at 200 cc flow, delivering 45-100% FiO2
+   - Respiratory Rate: 40-80 breaths/min (up to 80 bpm post-feeding)
+   - SaO2 Requirements: Maintained > 92% with adjustments in FiO2
+   - Lung Sounds: Clear bilaterally, mild upper airway congestion observed
+   - Observations: Moderate respiratory compensation; increased work of breathing during feeds. No apnea spells noted. 
+   - Heart Rate: 150-170 beats/min
+   - Apnea Management: One episode of bradycardia noted.
+
+2. **Fluid and Nutritional Status:**
+   - Total Feedings: Restricted to 130 cc/kg/day of BM32 with Promod
+   - Feeding: Successful bottling with good intake; no emesis, normal urine output.
+   - Supplements: Continuing vitamin E, iron, potassium chloride, and sodium chloride.
+
+3. **Physical Exam Findings:**
+   - Abdomen: Soft, non-distended, active bowel sounds, no hepatosplenomegaly.
+   - Rash: Unchanged; continue monitoring.
+   - Behavior: Alert and active during cares; engages with care providers.
+
+**Plan:**
+- Continue monitoring respiratory status and apneic episodes.
+- Support nutritional needs and ensure adequate fluid intake.
+- Ongoing assessments of growth and developmental milestones.
+- Regular updates for family members."
+2157-01-20,67.22222222222223,164.33333333333334,94.88888888888889,70.0,"**Respiratory Status:**  
+- Oxygen saturation: 91-98% on nasal cannula at 200 cc, increased to 400 cc at 100% during oral feeding.  
+- Respiratory rate: 50's-70's with subcostal/intercostal retractions.  
+- Breath sounds: Clear and equal bilaterally.  
+- Mild upper airway congestion.  
+- No respiratory spells observed.  
+
+**Feeding/Nutrition:**  
+- Weight: 2245g, increased by 40g.  
+- Receiving 130 cc/kg/day of breast milk with Promod.  
+- Bottled feeds once per shift; consumed entire feed.  
+- Normal voiding; no stool recorded.  
+- Small spit with first gavage feed; aspirates noted: 3.5 cc and 1.0 cc.  
+
+**Developmental Status:**  
+- Stable temperatures in open air crib.  
+- Takes pacifier offered.  
+- Active during care routines; awakens for feeds.  
+
+**Social:**  
+- Mother present until 8:30 PM; called for update at 1:30 AM.  
+- Inquiries about care were appropriate.  
+
+**Additional Note:**  
+- Patient suctioned once for large mucus plug; no respiratory spells noted."
+2157-01-21,60.0,162.1304347826087,96.21739130434784,68.04347826086956,"**Patient ID:** [**1-21**]  
+**Date of Note:** NPN 1900-0730  
+**Attending:** Neonatology  
+
+**Day of Life (DOL):** 77  
+**Corrected Gestational Age (CGA):** 36 6/7 weeks  
+**Weight:** 2295 grams (increase of 50 grams)
+
+**Respiratory Rate:** 50-80 breaths per minute; increased work of breathing noted with moderate subcostal retractions observed post-feedings. Oxygen saturation ranged from 92-97%.  
+
+**Heart Rate:** Recorded bradycardia during 9 AM feeding (heart rate in the 50s; saturation in the 40s). Regular rate and rhythm otherwise observed.  
+
+**SaO2:** Oxygen saturation maintained between 92-97% on nasal cannula with a requirement of 200 cc at 60% O2 concentration.  
+
+**FiO2:** Currently requiring supplemental oxygen at 60% concentration.  
+
+**Clinical Plan:**  
+- Continue monitoring respiratory status and oxygen needs based on feeding tolerance and any desaturation events.  
+- Assess work of breathing and adjust oxygen support as necessary.  
+- Ongoing evaluation of feeding regimen's impact on respiratory function.  
+
+**Overall Assessment:** Patient remains stable with chronic lung disease (CLD) requiring oxygen support; continue monitoring and adapting care as needed.  "
+2157-01-22,66.11538461538461,160.44,94.52,71.4,"**Medical Notes**
+
+**Patient:** Baby  
+**Date/Time:** Day 77, 0100  
+
+**Respiratory Status:**  
+- **Respiratory Rate:** 50-70 breaths per minute  
+- **Oxygen Support:** Nasal cannula at 200cc; requiring 50-60% O2, increased to 300cc at 100% during feeding  
+- **SaO2 Levels:** Drops to 80s during desaturation events; improves with rest  
+- **Lung Examination:** Clear, mild to moderate subcostal retractions and nasal stuffiness noted  
+
+**Cardiovascular Status:**  
+- **Heart Rate:** 150-170 beats per minute  
+- **Blood Pressure:** 82/58  
+
+**Fluid Intake and Nutrition:**  
+- **Weight:** 2295g, unchanged  
+- **Total Fluid Intake:** 130cc/kg of breast milk with promod  
+- **Feeding Coordination:** Significant dyscoordination noted, likely related to reflux; breastfed and difficulties with bottle feeding  
+
+**Bowel and Urinary Output:**  
+- **Bowel Movements:** Normal; 32 with promod, passing large stool observed  
+- **Urinary Output:** Normal voiding  
+
+**Developmental Observations:**  
+- **Temperature:** Stable in open crib; infant active and calm during care  
+- **Sleep Pattern:** Sleepy but able to feed orally at 0100; awake and tired at 0500  
+
+**Plan:**  
+- Monitor respiratory status and oxygen requirements  
+- Continue feeding support and advance oral feeds as tolerated  "
+2157-01-23,63.95454545454545,164.71428571428572,95.3,78.08695652173913,"**Respiratory Status:**
+- Currently on nasal cannula, receiving low-flow oxygen at 100%, with flow rates of 175-200cc.
+- Oxygen saturation (SaO2) consistently above 92%, with occasional brief desaturations during feeds.
+- Requires increased fractional inspired oxygen (FiO2) during feeding: 100% FiO2 for gavage and 300cc with 100% FiO2 for bottle feeding.
+- Mild tachypnea with respiratory rates noted at baseline 72, occasionally in the 80s.
+- Moderate subcostal retractions observed; breath sounds are clear, with mild upper airway congestion.
+
+**Heart Rate:**
+- Bradycardia observed during feeding episodes.
+
+**Plan:**
+- Continue monitoring respiratory and heart rates.
+- Support and standardize oxygen requirements as indicated.
+- Assess and adjust FiO2 needs based on respiratory status.
+- Monitor for any signs of reflux contributing to respiratory events."
+2157-01-24,57.625,165.75,95.08333333333331,71.45833333333333,"**Patient Summary:**
+- **Observation Date:** Day of Life (DOL) 79, Corrected Gestational Age (CGA) 37 weeks and 2 days.
+
+**Respiratory Status:**
+- Stable on nasal cannula (NC) at 200 cc with oxygen levels varying from 50-100%.
+- Respiratory rate fluctuating between 40-80; transient tachypnea observed.
+- Occasional oxygen desaturations to mid-80s and low 90s; mild subcostal retractions noted.
+- No apneic or bradycardic episodes; increased oxygen requirements during feeding (both oral and gavage).
+
+**Heart Rate:**
+- Clear lung sounds; soft heart murmur noted.
+- No abnormalities reported during assessments.
+
+**SaO2 (Oxygen Saturation):**
+- Occasional drifts noted, particularly during feeding; maintained stable levels generally while on NC.
+
+**FiO2 (Fraction of Inspired Oxygen):**
+- Oxygen needs may rise to 100% during care and feeds; managed with current treatment.
+
+**Plan:**
+- Continuous monitoring of respiratory support and feeding tolerance.
+- Evaluate and manage gastroesophageal reflux as necessary.
+- Expected discharge within weeks to a month, dependent on feeding ability and ongoing oxygen needs."
+2157-01-25,54.458333333333336,165.29166666666666,95.45833333333331,63.75,"**Vital Signs:**
+- **Respiratory Rate:** 30-70 breaths per minute; continuous monitoring with no respiratory spells noted.
+- **Heart Rate:** Not explicitly noted.
+- **SaO2:** Oxygen saturation improving during feedings, drifting between 80s and 90s with desaturations down to 85-91%. 
+- **FiO2:** Supplemental oxygen via nasal cannula at 200 cc, varying between 50-100% during feeds.
+
+**Additional Observations:**
+- Patient is stable with Chronic Lung Disease (CLD).
+- Continuous monitoring of respiratory status; lungs clear with mild subcostal retractions.
+- Weight is 2410 grams, increased by 25 grams.
+- Fluid intake is restricted to 130 cc/kg/day of breast milk; alternating oral and gavage feeds.
+- Abdomen benign with no vomiting; heme-negative stool noted.
+
+**Plan:**
+- Continue monitoring respiratory status and oxygen needs.
+- Increase encouragement of oral feeding for coordination and stamina."
+2157-01-26,67.92,164.2,94.92,91.92,"**Respiratory Status:**
+- Oxygen therapy: NCO2 at 200cc, settings 65-100%.
+- SaO2 levels between 65-98%, occasional dips into the 80s.
+- Respiratory rate (RR): Baseline 30-70s; transient tachypnea up to 110s post-feeding; resolves quickly.
+- Breath sounds clear; subcostal retractions unchanged.
+- Required oxygen: 125-150cc at rest, increased to 200cc during feeds.
+- No apneas or bradycardias observed.
+
+**Heart Rate:**
+- Heart rate within normal limits; specific values not documented.
+
+**Assessment/Plan:**
+- Continue monitoring respiratory status and wean oxygen flow as tolerated.
+- Follow-up on oxygen therapy adjustments and ensure home care benefits transition to new state.
+
+**Feeding:**
+- Current feeding: 130cc/kg/day of breast milk with no spits noted.
+- Increased oxygen flow and tachypnea observed during feeds.
+
+**Current Medications:**
+- Diuril, NaCl, KCl.
+
+**Overall Condition:**
+- Stable with chronic lung disease (CLD) and ongoing monitoring required for respiratory and growth parameters."
+2157-01-27,63.0,158.19230769230768,95.46153846153848,100.0,"**Medical Note**
+
+**Date & Time:** [Insert Date/Time]
+
+**1. Respiratory Status:**
+- Infant on nasal cannula (NC) oxygen, receiving 150-200cc of O2; 200cc during feeds.
+- Oxygen saturation (SaO2) at rest: 92-95%, drifts to high 70s during feeds.
+- Respiratory rate (RR): 50-70 breaths per minute at rest, increases to 80-90 during feeds; mild subcostal retractions noted.
+- Moderate work of breathing, particularly surrounding feeding times.
+- Nasal suctioning performed once for small amount of white secretion.
+- Requires frequent breaks during feeding.
+
+**2. Heart Rate:**
+- Heart rate (HR) in the 80s during feeds.
+
+**3. Oxygen Saturation (SaO2):**
+- Baseline SaO2 of 92-95%; observed drops to 80-95% during feeds, resolves with rest.
+
+**4. FiO2:**
+- Current O2 requirement: 150cc-200cc at 100% FiO2.
+
+**Assessment:**
+- Ongoing tachypnea and oxygen requirements noted.
+- Infant stable with ongoing monitoring required for respiratory status and feeding tolerance.
+
+**Plan:**
+- Continue to monitor respiratory status, feeding tolerance, and consider adjustments based on ongoing assessments."
+2157-01-28,58.29166666666666,159.25,94.75,100.0,"**Patient Name:** [Known lastname 4727]  
+**DOB:** [Not provided]  
+**Date of Note:** [Not provided]
+
+**Respiratory Assessment:**  
+- Respiratory Rate (RR): 40-70 breaths per minute at rest, increasing to 80-90 during feeds.  
+- Oxygen saturation (SaO2): 92-98% at rest, with desaturations noted during feeds but no apnea or bradycardia.  
+- Currently on nasal cannula with oxygen flow requirement fluctuating between 100cc and 200cc during feeds.  
+- Mild nasal stuffiness and clear lung examination, but moderate subcostal retractions observed.  
+- Increased respiratory effort noted during feeding, requiring frequent breaks.  
+
+**Plan:**  
+- Continue monitoring respiratory status and oxygen needs, with a goal of weaning off supplemental oxygen as tolerated."
+2157-01-29,61.79166666666666,161.125,96.45833333333331,100.0,"**Patient:** Preterm infant  
+**Date of Note:** Day of Life 84  
+
+**Respiratory Status:**  
+- Nasal cannula oxygen at 100-150 cc with 100% FiO2, fluctuating during feeds (up to 200 cc).  
+- Respiratory rate: 40-70 breaths/min, increasing to 90-114 during and after feeding.  
+- Mild head bobbing at rest, worsens post-feeding.  
+- Clear breath sounds, mild intercostal/subcostal retractions.  
+- Oxygen saturation: 92-98%.  
+- Maintains respiratory stability with treatment for RDS.  
+- Increased work of breathing during PO feeds, good coordination overall.  
+- Mild to moderate retractions noted.
+
+**Assessment:**  
+- Chronic lung disease (CLD) with respiratory and feeding immaturity.  
+- Monitoring required for respiratory status and oxygen needs.  
+
+**Plan:**  
+- Gradual weaning of supplemental oxygen as tolerated.  
+- Continue cardiorespiratory monitoring.  
+- Family education and support for care needs.
+
+**Medications:**  
+- Caffeine.  
+- NaCl supplementation.  
+- Diuretics as needed for respiratory management."
+2157-01-30,60.55555555555556,162.92592592592592,94.96296296296296,100.0,"**Patient Summary:**
+- **Age:** Day of Life (DOL) 85, Corrected Gestational Age (CGA) 38 weeks and 1 day
+- **Weight:** 2600 grams (gain of 65 grams)
+- **Oxygen Requirement:** Stable on nasal continuous oxygen (NCO2) at 100-125 cc at rest; increases to 200 cc with feeds.
+- **Respiratory Rate:** Ranges from 40s-60s, up to 90s-100s with feeds; mild to moderate work of breathing (WOB); improvement in secretions noted.
+- **Oxygen Saturation (SaO2):** Between 94-97%; transient drops observed during feeding but not affecting heart rate.
+- **Cardiac Assessment:** Soft murmur, good peripheral pulses (+2), regular rhythm (RRR).
+- **Observations:** Head bobbing during feeds decreased; active lifestyle in open crib; good tone; no apnea or bradycardia; clear bilateral breath sounds; mild intercostal/subcostal retractions and upper airway congestion present.
+
+**Assessment:**
+- Patient is doing well with stable oxygen requirements and tolerating oral feeds. Work of breathing slowly improving.
+
+**Plan:**
+- Continue current regimen; consider gradual weaning of calories and oxygen if stable growth continues. Monitor WOB and feeding coordination. Upcoming hearing screen and car seat test prior to discharge."
+2157-01-31,60.42307692307692,159.73076923076923,94.53846153846152,100.0,"**Respiratory Status:**
+- Stable on nasal continuous oxygen (NC O2) at 100% with flow rates of 75-175 cc/min at rest; increased to 175-200 cc/min during bottle feeds.
+- Respiratory rates vary between 40-70 breaths per minute at rest, increasing to the 90s during oral feeding.
+- Baseline retractions present, with intercostal and subcostal retractions noted.
+- Clear lung sounds with equal breath sounds; no respiratory distress or spells observed.
+- Oxygen needs increase during feeding.
+
+**Heart Rate:**
+- Appears to exhibit a soft, intermittent murmur; heart is regular rate and rhythm. 
+
+**SaO2:**
+- Oxygen saturation maintained within acceptable limits on current oxygen support.
+
+**FiO2:**
+- Maintained at 100% during supplemental oxygen delivery.
+
+**Plan:**
+- Continue monitoring respiratory status and adjust oxygen flow as needed.
+- Assess and support feeding regimen to ensure stability for discharge.
+- Monitor overall health to prepare for discharge within 1-2 weeks, with ongoing reassessment of respiratory and nutritional status."
+2157-02-01,56.96,155.96,95.72,100.0,"**Patient Notes:**
+
+- **Respiratory Rate:** 40-60 breaths per minute, fluctuating between 50-80 breaths/minute during assessment. Mild to moderate work of breathing noted with subcostal retractions, nasal flaring, and head bobbing.
+- **Heart Rate:** Not specified within the notes.
+- **SaO2:** Oxygen saturation levels between 90-96%, with variability noted during feeding.
+- **FiO2:** On nasal cannula, receiving 100% FiO2 at varying flow rates of 75-125 cc/min, increasing to 150 cc during feeding.
+- **Plan for Respiratory Care:** Monitor respiratory status, and wean oxygen as tolerated."
+2157-02-02,52.22222222222222,155.5185185185185,94.74074074074076,100.0,"**Medical Note**
+
+**Patient Information:**
+- Day of Life (DOL): 88
+- Gestational Age (CGA): 38 weeks 4 days
+
+**Respiratory Assessment:**
+- Nasal cannula (NCO2): 100% at flow rates of 25-100 cc.
+- Oxygen saturation (SaO2): 90-96%, with occasional desaturations to high 80s.
+- Respiratory rate: 30-60 breaths per minute.
+- Lung sounds: Clear and equal, with mild intercostal/subcostal retractions.
+
+**Cardiovascular Assessment:**
+- Soft murmur noted, regular rate and rhythm.
+
+**Feeding and Weight:**
+- Intake: 128 cc/kg of breast milk (BM) with ad lib feeding.
+- Abdomen: Soft, benign; no spit-ups; active bowel sounds.
+- Weight: 2655 grams (no change).
+- Voiding status: Present.
+
+**Assessment:**
+- Stable with chronic lung disease (CLD) on NCO2, showing mild respiratory challenges but no increased work of breathing.
+
+**Plan:**
+- Continue monitoring respiratory and feeding status.
+- Wean oxygen as tolerated.
+- Schedule echocardiogram for Thursday.
+- Support for mother and preparation for discharge."
+2157-02-03,55.55172413793103,161.46428571428572,93.92857142857144,100.0,"**Patient Identifier**: [**Known lastname 4727**]  
+**Date**: [**18**]  
+**Service**: Neonatology  
+**Attending Physician**: [**Known lastname 29**]  
+
+**Respiratory Rate**: 
+- 30-70 breaths per minute, stable with no desaturation episodes reported.
+- Mild intercostal and suprasternal retractions observed.
+- Oxygen saturation maintained between 90-97%.
+
+**Heart Rate**: 
+- Regular rate and rhythm noted, pulses +2, with a soft cardiac murmur present.
+
+**SaO2**: 
+- Required 50-75cc at 100% oxygen to maintain saturation >90%. 
+- Briefly weaned to 13cc but could not maintain for the entire shift.
+
+**FiO2**: 
+- Initially on nasal cannula at variable flow rates (25-50cc at rest, 75cc during feeding).
+- Increased FiO2 during choking episode for recovery after apnea.
+
+**Interventions**: 
+- Suctioning performed due to dried secretions; nasal congestion noted.
+- Oxygen support adjustments planned based on continuous monitoring.  
+
+**Plan**: 
+- Continue monitoring respiratory status.
+- Further follow-up on choking incident and interventions.
+- Maintain weaning approach for oxygen and adjust as tolerated."
+2157-02-04,51.76923076923077,159.23076923076923,94.23076923076924,100.0,"**Medical Note**
+
+**Patient Information:**
+- Day of Life: 90
+- Corrected Gestational Age: 38 weeks, 6 days
+
+**Current Condition:**
+- Nicotine Concentration: 25 cc with drifting observed.
+- Requires stimulation for breathing support (BBO2).
+
+**Vital Signs:**
+- Respiratory Rate: 50-90 breaths per minute, fluctuating between 30's-80's with baseline subcostal/intercostal retractions noted.
+- Heart Rate: 140-160 beats per minute.
+- SaO2: Some drifting observed; significant desaturation to 40's during burping, requiring vigorous stimulation and blow-by O2.
+- FiO2: Current oxygen delivery via nasal cannula at approximately 2 liters per minute.
+
+**Assessment/Plan:**
+- Assessment: Growing preterm infant with Chronic Lung Disease (CLD), experiencing feeding dyscoordination, and episodes of Apnea of Prematurity (AOP). 
+- Plan: Continue monitoring respiratory status with a focus on weaning oxygen as tolerated. 
+
+**Follow-Up Actions:**
+- Continued close observation and management of respiratory needs and feeding patterns."
+2157-02-05,54.34615384615385,158.16,95.16,100.0,"**Patient Summary:**
+
+- **Oxygen Status:** Stable on nasal cannula, requiring 25-50 cc of 100% O2. Respiratory rate: 50-90 breaths per minute with subcostal/intercostal retractions. Mild nasal congestion observed. Aim to maintain SaO2 between 90-96%. Several desaturation episodes noted.
+
+- **Heart Rate:** Regular rate between 140-160 bpm.
+
+- **Respiratory Assessment:** Breath sounds clear bilaterally, with ongoing monitoring for increased work of breathing during feeds. No significant desaturations observed today.
+
+- **Weight:** Decreased by 30 grams to 2695 grams, following breastfeeding. Monitoring feeding practices due to fatigue and choking spells.
+
+- **Feeding Tolerance:** Ad lib demand feeding with variability; infant fatigues more with breastfeeding than bottle feeding but tolerates feeds well overall.
+
+- **Developmental Assessment:** Patient is awake and alert, engaging minimally during care activities. Unable to lift or turn head but displayed appropriate behaviors for gestational age.
+
+- **Plan:** Continue with O2 support, monitor respiratory status closely, maintain feeding plan, ensure adequate rest to support growth, and follow up on desaturation episodes as necessary."
+2157-02-06,56.51851851851852,159.40740740740742,94.88888888888889,100.0,"# Medical Note Summary
+
+**Patient ID:** NPN  
+**Date:** [Date of Note]  
+**Shift:** 0700-1900  
+
+## Respiratory Assessment
+- **SaO2:** Oxygen saturation stabilizing at 94-97%.
+- **FiO2:** Requires 25-100 cc supplemental oxygen via nasal cannula; increased to 75 cc after feeding.
+- **Respiratory Rate:** Varies from 40 to 80; baseline subcostal retractions noted; no apnea or desaturation episodes today.
+- **Observations:** Clear breath sounds with some nasal congestion; occasional drops in O2 to 68 during sleep, resolved with supplemental oxygen.
+
+## Cardiovascular Status
+- Blood pressure: 83/47 with mean of 65. Echo shows persistent small PDA.
+
+## Additional Information
+- On Diuril and KCl for continued respiratory support.
+- Stable condition with chronic lung disease still requiring a small amount of O2.
+- Monitor respiratory status, growth, and feeding performance.
+
+**Next Steps:** Regular assessment of respiratory status and family engagement strategies."
+2157-02-07,55.80769230769231,153.8846153846154,95.65384615384616,100.0,"**Patient Information**: 
+- Age: 70 days
+- Weight: 2845g (up 70g)
+- Neonatology status: Stable, low flow NC O2.
+
+**Respiratory Status**: 
+- Patient on nasal cannula (NC) with 100% oxygen at 25-50 cc, increasing to 100 cc for feeding if needed.
+- Respiratory rate (RR) fluctuates between 40-70 breaths/min with mild subcostal retractions.
+- Lungs clear, occasional upper airway congestion; no desaturation or spontaneous spells observed.
+- Increasing work of breathing noted during feeds; requires oxygen adjustments.
+
+**Vital Signs**: 
+- Heart rate normal (S1S2), grade II/VI audible murmur.
+- Baby pink and well-perfused.
+
+**Nutritional Intake**: 
+- Oral feeding (PO) ad lib, averaging 70-85 cc every 4 hours; breast milk provides 26 calories.
+- Average intake yesterday: 154 cc/k.
+- Adequate bowel movement (soft abdomen, active bowel sounds); no stool observed this evening.
+- Urination is satisfactory, with voiding noted.
+
+**Plan**: 
+- Continue monitoring respiratory status and vital signs.
+- Monitor weight, oral intake, and abdominal status.
+- Potential weaning off oxygen as respiratory control matures.
+- Contact pediatrician for updates. Follow-up based on rounds discussion with Dr. [**Name (NI) 481**]."
+2157-02-08,58.19230769230769,154.84615384615384,94.6923076923077,100.0,"**Respiratory:**
+- Patient on nasal cannula with FiO2 of 100% and flow rate of 25-50 cc's, increased to 75 cc's during feeds.
+- Respiratory rate ranges from 30-70 at rest, with transient tachypnea observed between 40-70 during feeds; rebound to baseline post-feeding.
+- Clear and equal breath sounds; mild upper airway congestion with small yellow secretions suctioned.
+- Increased work of breathing during feeds, no distress noted.
+- Continuing Diuril and KCL as ordered.
+- Assessment indicates altered respiratory status due to chronic lung disease (CLD), with plan to wean oxygen as tolerated.
+
+**Heart Rate:**
+- Heart rate not specifically documented, but no abnormal sounds noted throughout observations.
+
+**SaO2:**
+- Ongoing monitoring of saturation; transient desaturation occurred during feeds, responded quickly to stimuli.
+
+**Feeding and Nutrition:**
+- Infant on ad lib demand feeding, consuming 155 cc's/kg/day; bottled feeds of 80-90 cc's.
+- 26 bowel movements recorded, guaiac negative stool, no vomiting.
+- Abdomen is soft with positive bowel sounds.
+
+**Plan:** 
+- Continue assessing respiratory status and feeding tolerance.  
+- Continue monitoring for oxygen weaning and overall stability as preparations for discharge continue."
+2157-02-09,56.96,157.48,93.92,100.0,"**Medical Note**
+
+**Respiratory Rate and Support:**  
+- Currently on nasal cannula (N/C) with a flow rate of 13-25 cc, requiring an increase to 50 cc during feeds due to tachypnea. 
+- Oxygen saturation (SaO2) consistently at 100%. 
+- Mild subcostal retractions present; intermittent tachypnea observed during and post feeding.
+- Lung examination shows clear breath sounds and good air entry. 
+
+**Heart Rate:**  
+- Cardiovascular assessment reveals a grade 1-3 murmur with pulses +2, skin pink, and a regular rate and rhythm.
+
+**Oxygen Saturation (SaO2):**  
+- Maintained at 100% on current oxygen support. 
+
+**Oxygen Requirement (FiO2):**  
+- Currently utilizing 100% oxygen; no increase in requirements noted except during feeding periods.
+
+**Plan:**  
+- Continue monitoring respiratory status and adjust oxygen flow as clinically indicated. Regular assessments of feeding tolerance and respiratory responses will guide further management."
+2157-02-10,52.125,159.875,93.875,100.0,"**Patient:** [**Known lastname 4727**]  
+**Date:** [Insert date of note]  
+**Time:** 0700-1900  
+
+**Respiratory Status:**  
+- Patient on NCO2, 13-25 cm, with 100% oxygen.  
+- Respiratory rate: 50s.  
+- Mild subcostal retractions persist; breath sounds clear and equal.  
+- Work of breathing returns to baseline after feeds.  
+- Continuation of Diuril and KCL; gas and electrolytes to be checked on Monday.  
+
+**Oxygen Management:**  
+- Plan to wean O2 as tolerated.  
+- Patient requires supplemental oxygen during travel.  
+- Home oxygen setup arranged through Respiratory Solutions.  
+- Portable oxygen tank to be provided for the flight.  
+- Arrangements for home oxygen in Florida confirmed.  
+
+**Feeding and Nutrition:**  
+- Feeds every 4 hours; current intake is 130 cc/kg/day.  
+- Waking every 4-4.5 hours for feeds, with adequate voiding.  
+- ABD exam benign; occasional small spit observed.  
+
+**Growth and Development:**  
+- Stable temperature; weight: 2935 grams, increased by 20 grams.  
+- Eye exam and chest X-ray scheduled.  
+- Follow-up for HCT and reticulocyte count on Monday.  
+
+**Clinical Observations:**  
+- Patient exhibits variable oxygen needs.  
+- Continuous monitoring for readiness for discharge planned for Wednesday, February 16.  
+
+**Next Steps:**  
+- Assess readiness for discharge based on oxygen requirements.  
+- Continuation of pediatric follow-up and discharge planning discussion with family.  
+- Coordinate teaching for oxygen use before discharge.  
+
+**Medical Team Involvement:**  
+- Early Intervention Plan to be arranged by case manager.  
+- Ongoing communication with family regarding discharge readiness and care needs.  "
+2157-02-11,53.09090909090909,154.1818181818182,94.3181818181818,100.0,"**Medical Note**
+
+**Patient ID:** NPN 1900-0730
+
+**1. Respiratory Status:**
+- Respiratory rate: 50-60 breaths per minute.
+- Current oxygen requirement: N/C at 100% oxygen; attempts to wean off unsuccessful, with slight tolerance for room air during trials.
+- Oxygen saturation: Occasional desaturation to mid-80s, primarily during feeding; managed effectively by mother.
+
+**2. Nutritional Intake:**
+- Patient weight: 2980 grams, increased by 65 grams.
+- Total intake: 148 cc/kg/day, averaging 60-80 cc every 4-5 hours; well-tolerated.
+- Feeding schedule: Every 4 hours during the day, every 5 hours at night.
+
+**3. Medications:**
+- Prescriptions for Synagis and HBV to be administered.
+- Currently on Diuril and KCL.
+
+**4. Home Care Arrangements:**
+- Home oxygen setup in Massachusetts and Florida arranged.
+- Mother trained in use of oximeter and portable O2 for travel.
+
+**5. Follow-up Care:**
+- Initial follow-up with pulmonologist in Florida scheduled; early Intervention Program has been arranged.
+- Appointment with pediatrician scheduled for Thursday at 2:45 PM in Florida.
+
+**6. Imaging and Laboratory Tests:**
+- Chest X-ray scheduled before discharge.
+- Gas and electrolytes, hematocrit, and reticulocyte count to be drawn on Monday.
+
+**7. Clinical Summary:**
+- Breath sounds clear with mild upper airway congestion noted.
+- Occasional small spit-ups; abdomen benign, appropriate voiding. 
+- Instructions for feeding with breast and bottle within a 26-calorie diet. 
+
+**8. Discharge Planning:**
+- Mother anticipates discharge next Wednesday; good family support and engagement noted. 
+
+**9. Documentation:**
+- Letter of medical necessity for flying provided. 
+
+**Next Steps:**
+- Monitor oxygen requirements and continue weaning attempts."
+2157-02-12,57.375,158.3846153846154,95.42307692307692,100.0,"**Patient Information:**
+- Age: Preterm infant
+- Day of Life (DOL): 98
+- Weight: 2990 grams (increased by 10 grams)
+
+**Respiratory Status:**
+- Currently on nasal cannula at FiO2 100% with initial flow of 25cc, increased to 75cc during bottle feeding due to desaturations (88-90%).
+- Mild subcostal/intercostal retractions and increased work of breathing noted during feedings.
+- Continuous monitoring for respiratory distress is in place; stable on current support.
+
+**Heart Rate:**
+- Regular rate and rhythm observed with soft murmur auscultated.
+- Symmetrical 2+ pulses; no significant abnormalities noted.
+
+**Oxygen Saturation (SaO2):**
+- Maintained > 94% on current oxygen therapy.
+- Desaturations recorded during bottle feeding managed with increased FiO2.
+
+**Oxygen Therapy (FiO2):**
+- Administering oxygen via nasal cannula; ongoing adjustments based on respiratory status and feeding tolerance.
+- Plans to supply and wean FiO2 as tolerated.
+
+**Feeding and Growth:**
+- Ad-lib feeding schedule every 4-4.5 hours; well-tolerated with no noted intolerances. 
+- Current intake: 104 cc/kg/day, receiving breast milk.
+- Weight monitoring shows steady increase.
+
+**Overall Assessment:**
+- Diagnosis includes chronic lung disease (CLD) and retinopathy of prematurity (ROP).
+- Preparing for discharge with further assessments and ophthalmology follow-up scheduled. 
+
+**Plan:**
+- Continue to assess respiratory and nutritional needs.
+- Educate parents on care as discharge preparations progress."
+2157-02-13,47.6,152.96,95.64,100.0,"**Medical Note:**
+
+**Patient ID:** [**2157-2-13**]  
+**Date:** [**2157-2-22**]  
+**Exam Type:** Babygram (Chest Only)  
+
+**Reason for Examination:**  
+Term infant with chronic lung disease (CLD) preparing for discharge.
+
+**Clinical Summary:**  
+- **Respiratory Rate:** 40-70 breaths per minute, stable on nasal cannula oxygen.
+- **Heart Rate:** Atrial flutter observed.
+- **SaO2:** Maintained at maximum of 100% with continuous monitoring.
+- **FiO2:** 100%, with flow rates increased to a consistent 75 cc.
+
+**Radiological Findings:**  
+- Normal cardiomediastinal silhouette.  
+- Low lung volumes with coarse interstitial markings consistent with CLD.
+
+**Recommendations:**  
+- Close monitoring of oxygen saturation and respiratory function post-discharge.  
+- Prepare for ongoing management of chronic lung disease."
+2157-02-14,48.12,152.08,96.72,100.0,"**RESPIRATORY STATUS**  
+- Patient on nasal cannula oxygen therapy at 100%, flow rate of 75cc.  
+- Respiratory rate: 40-60 breaths per minute.  
+- Breathing sounds clear and equal; mild, occasional subcostal retractions noted.  
+- Oxygen saturation (SaO2): stable >93%, noted drop to 82% during car seat test, indicating failure.  
+
+**DISCHARGE PLANS**  
+- Discharge with portable oxygen tank and oximeter; education provided to mother on usage.  
+- Portable oxygen tank expected to last 5 days.  
+- Follow-up oxygen delivery arranged with home oxygen company. 
+
+**NURSING NOTES**  
+- Overall respiratory status stable; preparation for discharge in progress.  
+- Future car seat test considerations discussed, including potential need for increased oxygen flow (250 cc)."
+2157-02-15,50.04166666666666,148.70833333333334,98.66666666666669,100.0,"**Medical Note**
+
+**Patient ID:** [**Name (NI) 1**]  
+**Date:** [Insert Date]
+
+**Respiratory Status:**  
+- Patient on nasal cannula (NCO2) delivering 100% oxygen at 75cc.  
+- Oxygen saturation (SaO2) consistently between 95-100%.  
+- Respiratory Rate (RR): 40-60 breaths per minute.  
+- Arterial Blood Gas (ABG): 7.40/46/80/30/+3.  
+
+**Plan for Oxygen:**  
+- Monitoring for desaturation; currently stable after a prior episode.  
+- Increased oxygen to 200cc during a choking incident, which resolved promptly.  
+
+**Growth and Development:**  
+- Current weight: 3080 grams (20 grams increase).  
+- Feeding well, consuming 70-90cc of breast milk, with normal bowel function.  
+- Active and alert post-feeds, expected to discharge with supplemental oxygen in a car bed.  
+
+**Parental Education:**  
+- Instruction on safe sleeping practices and oxygen usage provided.  
+
+**Follow-Up:**  
+- Ongoing monitoring of respiratory parameters and support before discharge."
+2157-02-16,51.083333333333336,150.45454545454547,97.1818181818182,100.0,"**Respiratory Status:**
+- Stable on 75cc with 100% nasal continuous oximetry (NCO).
+- Oxygen saturation levels: 96-100%.
+- Respiratory rate: 40-70 breaths per minute.
+- Breath sounds clear and equal; mild intermittent subcostal retractions.
+
+**Discharge Details:**
+- Home oxygen setup confirmed; patient discharged with oxygen support.
+- Follow-up with pediatrician arranged for monitoring weight and growth."

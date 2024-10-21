@@ -1,0 +1,896 @@
+date,Respiratory_Rate,Heart_Rate,SaO2,FiO2,text
+2161-12-30,51.72727272727273,163.77272727272728,98.22727272727272,21.473684210526315,"**Patient Information:**
+- Infant born at 28 weeks gestation, weight 700 g.
+
+**Respiratory Status:**
+- Intubated with 2.5 mm oral ETT, neck flexed.
+- Current ventilator settings: 20 breaths/min, pressure of 5 cm H2O, FiO2 21%.
+- Respiratory rate: 30-60 breaths/min.
+- Mild respiratory distress; lung sounds clear bilaterally.
+- Oxygen saturation: Maintaining >95%.
+- Minimal diffuse granular opacities consistent with mild Respiratory Distress Syndrome (RDS).
+
+**Cardiovascular Status:**
+- Heart rate: 170-180 bpm.
+- Blood pressure exhibits normal limits for gestational age.
+- Perfusion: Pink, well-perfused, with brisk capillary refill.
+
+**Blood Gas Analysis:**
+- Venous blood gas: pH 7.33, pCO2 41, pO2 144, bicarbonate 23, base deficit -4.
+- Ongoing monitoring of blood counts; CBC results pending.
+
+**Treatment Plan:**
+- Antibiotics: Ampicillin and Gentamicin administered.
+- Continuous monitoring of vital signs and oxygen saturation.
+- Plan for gradual weaning from mechanical ventilation and reassessment of respiratory needs."
+2161-12-31,47.16666666666666,149.66666666666666,98.91666666666669,21.125,"**Patient Information:**
+- **PMA:** 28 weeks, 3 days 
+- **Weight:** 680 grams (decreased by 20 grams)
+- **NPO:** Yes
+- **Total fluids:** 100 cc/kg
+- **Urine Output:** 2.9 ml/kg/hr
+- **Room:** Under phototherapy in servo isolette
+
+**Vital Signs:**
+- **Respiratory Rate (RR):** 40-60 breaths per minute
+- **Blood Pressure:** 68/35 mmHg
+- **Oxygen Requirement:** CPAP 5 cm H2O, FiO2 21%
+- **Oxygen Saturation (SaO2):** 95-100%, intermittently dipping to mid-80s but resolving quickly
+- **Temperature:** Stable in servo isolette
+- **Bowel Sounds:** Clear and equal
+
+**Clinical Summary:**
+- **Respiratory Status:** 
+  - Comfortable on CPAP; lung sounds clear and equal.
+  - Caffeine administered for apnea management; no apnea spells observed.
+  - Mild intercostal/scapular retractions; monitored closely for pulmonary issues.
+
+- **Monitoring:** 
+  - Blood cultures negative, IV antibiotics (Ampicillin & Gentamicin) continue to rule out sepsis.
+  - Mild jaundice present, phototherapy ongoing, bilirubin levels to be rechecked.
+
+- **Nutritional Support:** 
+  - Total fluid increase to 120 cc/kg planned; currently on D10PN and D5 with heparin infusion. 
+  - Starting trophic feeds at 10 cc/kg.
+
+**Plan:**
+- Maintain CPAP settings at 5 cm H2O, FiO2 21%.
+- Continue monitoring respiratory status, saturation, and growth closely.
+- Hemolytic uremic syndrome workup scheduled.
+- Follow bilirubin levels and address any development changes."
+2162-01-01,45.24,156.6,99.8,21.0,"**Vital Signs:**
+- **Respiratory Rate:** 30-60 breaths per minute, stable
+- **Heart Rate:** 140-160 beats per minute, well-perfused with capillary refill < 3 seconds
+- **SaO2:** Not specified; reported as pink in appearance with clear breath sounds
+- **FiO2:** 21% with CPAP at 5 cm H2O
+
+**Clinical Observations:**
+- Clear breath sounds, mild subcostal retractions noted
+- No episodes of apnea or bradycardia recorded during monitoring
+- Caffeine administered for apnea prevention
+
+**Assessment:**
+- Respiratory status stable on CPAP; no significant issues observed
+- Close monitoring for respiratory parameters and signs of infection as cultures are pending
+
+**Plan:**
+- Continue CPAP at 5 cm H2O and maintain FiO2 at 21%
+- Monitor respiratory rate and heart rate regularly, ensuring stability
+- Follow oxygenation status closely and adjust treatments as necessary"
+2162-01-02,51.16666666666666,164.3,98.8,21.0,"**Patient Information:** Infant, DOL 3, PMA 28-5/7 weeks, Weight: 630g.
+
+**Respiratory Assessment:**
+- On CPAP at 5 cm H2O with FiO2 of 21%.
+- Respiratory rate: Stable at 30-60 breaths per minute.
+- Mild intercostal/subcostal retractions observed, no abnormal breaths detected.
+- Lung sounds clear bilaterally.
+- On caffeine therapy.
+- No episodes of apnea or bradycardia noted during current monitoring.
+
+**Heart Rate and Monitoring:**
+- Observed occasional bradycardias today, requiring mild stimulation.
+- Cardiorespiratory monitoring in place indicating no murmurs auscultated.
+
+**Oxygen Saturation:**
+- SaO2 levels maintained with current support, no desaturation events reported.
+
+**Plan:**
+- Continue monitoring for respiratory stability and bradycardias.
+- Document all episodes of bradycardia and respiratory distress.
+- Follow-up on respiratory and cardiac status; adjust support as needed."
+2162-01-03,48.67857142857143,164.85714285714286,99.75,21.0,"**Neonatology Note**
+
+**Date of Exam:** [Insert Date]  
+**Day of Life (DOL):** 4  
+**Postmenstrual Age (PMA):** 28 weeks 6/7 days  
+
+**Respiratory Assessment:**  
+- Current on CPAP 5 with FiO2 at 0.21.  
+- Respiratory rate: 40s to 60s.  
+- Clear breath sounds; mild respiratory retractions noted.  
+- Caffeine therapy initiated.  
+- One documented bradycardia episode during the shift.  
+
+**Cardiovascular Assessment:**  
+- Blood pressure: 69/41 (mean 51).  
+- No heart murmur detected.  
+
+**Oxygen Saturation (SaO2):**  
+- Saturations maintained at 98-100%.
+
+**Plan:**  
+- Continue monitoring respiratory status and adjust support as necessary.  
+- Maintain CPAP and FiO2 settings.  
+- Regularly evaluate for any episodes of apnea or bradycardia.  
+
+**Physical Exam Findings:**  
+- Patient awake and alert, with good tone and active movements."
+2162-01-04,47.34615384615385,170.28,99.4,21.0,"**Medical Note Summary**
+
+**Patient:** Preterm infant  
+**Gestational Age:** 29 weeks PMA  
+**Weight:** 625 g (down 10 g)  
+**Date:** [Insert Date]  
+**Time:** [Insert Time]
+
+**Respiratory Status:**
+- **CPAP Settings:** 5 cm H2O with FiO2 at 21%.
+- **Respiratory Rate:** 30-50 breaths per minute with mild intercostal and subcostal retractions.
+- **Saturation (SaO2):** Maintained at 99-100%.
+- **Episodes:** Three bradycardic episodes noted, managed with caffeine.
+
+**Assessment:**
+- Preterm infant with respiratory distress syndrome (RDS); condition stabilizing.
+- Clear lung sounds, stable heart rate 150-170 bpm.
+
+**Plan:**
+- Continue monitoring respiratory status and adjust CPAP as needed.
+- Monitor for further bradycardic events."
+2162-01-05,44.03448275862069,169.17241379310346,98.65517241379312,21.0,"**Patient Information:**
+- Age: Preterm infant
+- Date: [**NPN Days**]
+
+**Vital Signs and Observations:**
+- **Respiratory Rate:** 30-50 breaths per minute
+- **Heart Rate:** 150-170 beats per minute
+- **SaO2:** Not specified, but patient is on CPAP and observed for respiratory status.
+- **FiO2:** 21%, with CPAP at 5 cm H2O
+- **Lung Sounds:** Clear and equal bilaterally; mild intercostal/subcostal retractions and minimal adventitious breath sounds after suctioning.
+- **Bradycardia:** 8 episodes during the shift, with 1 episode post-feeding.
+
+**Clinical Summary:** 
+- Patient is experiencing mild respiratory distress with chest retractions and has had 6 respiratory spells this shift. 
+- Continued caffeine therapy relevant for apnea of prematurity. 
+- Ongoing observation of vital signs and respiratory status is critical.
+- The patient weighs 652 grams with a weight increase of 27 grams since last assessment.
+- Blood pressure recorded at 65/45 mmHg.
+- Overall color is pink; stable skin temperature; monitored in servo isolette. 
+- Current management includes phototherapy for hyperbilirubinemia, with bilirubin levels at 2.6 mg/dL.
+
+**Plan:**
+- Continue CPAP support and monitor respiratory status closely.
+- Maintain nutritional support regimen and adjust as necessary based on tolerance.
+- Reassess bilirubin levels and electrolytes in the morning and schedule head ultrasound as planned."
+2162-01-06,49.16666666666666,170.73333333333332,98.23333333333332,21.0,"**Medical Note**
+
+**Date:** [**2162-1-6**]  
+**Time:** 9:52 PM  
+**Patient:** Newborn  
+
+**Respiratory Status:**  
+- Patient on CPAP at +6 cm H2O with FiO2 at 21%.
+- Respiratory rate fluctuating between 30-70 breaths/min.
+- Oxygen saturation levels maintained at approximately 98-100%.
+- Caffeine therapy ongoing.
+- Clear breath sounds with baseline mild retractions noted.
+- Five respiratory spells noted by early morning; 11 spells recorded during the current shift, for a total of 21 spells in 24 hours.
+
+**Cardiovascular Status:**  
+- Heart rate between 160-170 bpm.
+- Notable loud murmur present.
+- Blood pressure stable at 67/36 mmHg.
+- Well-perfused with positive pulses.
+
+**Additional Observations:**  
+- Current weight: 635 grams; down 17 grams from birth weight of 700 grams.
+- Bilirubin level: 3.6 mg/dL. 
+- Benign abdominal examination with normal voiding and stools.
+- Continuous caffeine and Vitamin A supplementation ongoing.
+
+**Plan Summary:**  
+- Continue monitoring respiratory and cardiovascular status.
+- Maintain NPO status.
+- Follow-up echocardiogram for assessment.
+- Continue fluid and electrolyte management.  
+- Plan for ongoing parental education and support."
+2162-01-07,50.75,160.57142857142858,97.0,21.0,"**Patient Information:**
+- **Gestational Age:** 28 weeks and 2 days
+- **Age of Infant:** 8 days
+- **Current Weight:** 693 grams (up 58 grams)
+
+**Respiratory Status:**
+- **Respiratory Rate:** 24-60 breaths per minute (recorded variations)
+- **Heart Rate:** 93 beats per minute
+- **SaO2:** Not explicitly documented; no desaturations reported
+- **Oxygen Support:** CPAP at 6 cm H2O, FiO2 at 21%
+- **Breath Sounds:** Clear, slight thick white secretions noted
+- **Caffeine:** Administered as bolus; ongoing treatment
+- **Bradycardia Episodes:** Four documented
+
+**Additional Clinical Findings:**
+- **Temperature:** Stable in servo isolette
+- **Feeding Status:** NPO, total fluid intake calculated at 140-150 cc/kg
+- **Bilirubin Levels:** Under phototherapy, currently at 3.2 mg/dL (direct 0.2 mg/dL)
+- **Overall Stability:** Patient remains stable with no acute respiratory distress observed.
+
+**Plan:**
+- Continue current respiratory management and monitor for changes
+- Maintain NPO status and adjust fluid intake accordingly
+- Follow-up on bilirubin levels and response to phototherapy
+- Monitor vital signs and bradycardia episodes closely."
+2162-01-08,47.29032258064516,150.55172413793105,98.58620689655172,21.0,"**Medical Note**
+
+**Date/Time:** [Date and Time Not Specified]  
+**Patient:** Baby [**Known Lastname 1863**] #2  
+**Age:** Day 9, Post Menstrual Age: 29 weeks 4 days  
+**Weight:** 0.728 kg, increased by 35 g  
+
+**Vital Signs:**  
+- Heart Rate: 140-160 bpm  
+- Blood Pressure: 60/26 to 69/29 mmHg  
+- Respiratory Rate: 40-60 breaths/min  
+- SaO2: 94-100%  
+- FiO2: 21% (on CPAP 6 cm H2O)  
+
+**Respiratory Status:**  
+- Currently on CPAP with nasal prongs at 6 L/min; breath sounds are clear.  
+- Respiratory rate fluctuating between 40's to 60's, with four brief self-resolving respiratory spells noted.  
+- Caffeine administered; no apnea or bradycardia during the shift.  
+
+**Plan:**  
+- Continue monitoring respiratory status closely.  
+- Maintain current CPAP settings and monitor for apneic or bradycardic episodes."
+2162-01-09,54.0,161.58620689655172,98.06896551724138,21.0,"**Vital Signs:**
+- Respiratory Rate: 20-90 breaths per minute, fluctuating between 40-70 breaths per minute observed during shifts.
+- Heart Rate: 140-160 beats per minute.
+- SaO2: Greater than 97%.
+- FiO2: 21% on CPAP at 6 cm H2O.
+
+**Respiratory Care:**
+- Clear and equal breath sounds.
+- One respiratory spell and one bradycardia without apnea noted; currently on caffeine therapy.
+- Continued monitoring of respiratory status; improvement in cardiorespiratory control.
+
+**Fluid and Nutrition:**
+- Total Fluid Intake: 130 cc/kg/day (with IV fluids at 120 cc/kg/day).
+- NPO for the day; enteral feeds initiated at 10 cc/kg/day.
+- Abdomen soft with positive bowel sounds; urine output 1.6-1.7 ml/kg/hr.
+
+**Assessment:**
+- Slight jaundice observed; bilirubin levels at 2.6/1.0/1.6.
+- Ongoing monitoring of growth and development milestones is planned."
+2162-01-10,60.18518518518518,160.4814814814815,96.4074074074074,21.0,"**Patient Name:** [Redacted]  
+**Date of Note:** [Redacted]  
+**Location:** NICU  
+
+**Respiratory Status:**
+- On CPAP at 6 cm H2O with FiO2 at 21%.
+- Oxygen saturation levels consistently in the mid to high 90s.
+- Respiratory Rate fluctuating between 40 to 70 breaths per minute.
+- Clear lung sounds; mild retractions and moderate amounts of white secretions requiring suctioning noted.
+- Three bradycardic episodes observed, mostly self-resolving.
+- Caffeine therapy in place, no apnea spells during shift.
+
+**Plan:**
+- Continue monitoring respiratory parameters and caffeine therapy.
+- Maintain current CPAP settings and observe for changes in respiratory status."
+2162-01-11,55.42307692307692,159.65384615384616,98.3846153846154,21.0,"**Respiratory Status:**
+- On CPAP at 6 cm H2O, 21% FiO2.
+- Oxygen saturation: 93-100%.
+- Respiratory rate: 30-70 breaths per minute.
+- Lung sounds clear bilaterally, mild intercostal retractions observed.
+- Oral suctioning performed once for clear secretions.
+- No respiratory spells noted during the shift.
+
+**Cardiac Monitoring:**
+- Heart rate: 150-160 beats per minute.
+- Regular rate and rhythm, soft systolic murmur at left sternal border. No bradycardia during the shift.
+
+**Fluid and Nutrition:**
+- Total fluid intake: 130 cc/kg/day; IV fluids at 110 cc/kg/day via PICC line.
+- Enteral feeding: 20 cc/kg/day of breast milk advanced every 4 hours; well tolerated.
+  
+**Plan and Monitoring:**
+- Continue CPAP and current feeding regimen.
+- Monitor respiratory status and reassess care as needed.
+- Follow-up echocardiogram to assess for PDA scheduled.
+- Electrolytes, triglycerides, bilirubin labs to be checked tomorrow morning."
+2162-01-12,51.793103448275865,159.33333333333334,99.85185185185183,21.0,"**Patient Name:** Baby [**Known lastname 1863**] #2  
+**Date:** Day 13, PMA 30 1  
+
+**Respiratory Status:**  
+- On CPAP at 6 cm H2O with FiO2 21%.  
+- Respiratory rate (RR): 30-70 breaths per minute.  
+- Clear lung sounds, with mild intercostal/subcostal retractions.  
+- Four bradycardia episodes during the shift.  
+- No apnea events observed.  
+- Oral suctioning performed for moderate amounts of cloudy secretions.  
+
+**Cardiovascular Assessment:**  
+- Heart rate (HR): 110-170 beats per minute.  
+- Blood pressure (BP): 65/47, 138/3.7.  
+
+**Oxygen Saturation:**  
+- SaO2 maintained at 100%.  
+
+**Feeding and Nutrition:**  
+- Current weight: 767 grams (decreased by 6 grams).  
+- Total fluid intake: 130-140 cc/kg/day, with enteral feeding advanced to 50 cc/kg/day.  
+- No regurgitation or significant aspiration noted.  
+
+**Urinary Output:**  
+- Urine output recorded at 2.3-2.4 cc/hr.  
+
+**Plan:**  
+- Continue monitoring respiratory and nutritional status.  
+- Advance enteral feedings as tolerated.  
+- Ongoing parental updates and engagement."
+2162-01-13,52.06666666666667,162.92592592592592,98.74074074074076,21.0,"**Respiratory Status:**
+- On CPAP at 6 cm H2O with FiO2 at 21%.
+- Respiratory rate: 30-70 breaths per minute, currently in the 40s-60s range.
+- O2 saturation (SaO2): 98-100%.
+- Clear lung sounds with mild intercostal and subcostal retractions.
+- Oral suctioning performed; moderate cloudy secretions observed.
+- Three episodes of bradycardia during the shift, managed with minimal stimulation.
+- Monitoring for apnea and desaturations continues.
+
+**Heart Rate:**
+- Documented heart rate: 140-170 beats per minute.
+- Notable bradycardia events recorded, two occurring during the shift.
+
+**Plan:**
+- Continue CPAP therapy and caffeine administration.
+- Monitor respiratory status and vital signs closely, including heart rate and saturation levels.
+- Adjust feeding as tolerated and continue support for nutritional status."
+2162-01-14,57.46666666666667,167.8,98.26666666666668,21.0,"**Patient:** Baby Girl [**Known lastname 1863**]  
+**Location:** Neonatology Unit  
+**Date/Time:** [Insert Date]  
+
+**Respiratory Assessment:**
+- On CPAP at 6 cm H2O with FiO2 of 21%. 
+- Respiratory rate: 30-60 breaths per minute. 
+- Breath sounds: clear, mild intercostal retractions noted.
+- Sat O2: 95-100% while on room air.
+
+**Cardiac Assessment:**
+- Heart rate: 138 bpm.
+- Color: pink with slight jaundice; well-perfused.
+
+**Monitoring:**
+- Documented 5 respiratory spells; increased prong size used with no spells since.
+- Caffeine treatment ongoing; 9 episodes of bradycardia in past 24 hours, no episodes during this shift.
+
+**Plan:**
+- Continue CPAP and caffeine treatment. 
+- Monitor apneas and adjust respiratory support as needed. 
+- Advance enteral feeds as tolerated."
+2162-01-15,49.21428571428572,168.07692307692307,99.3846153846154,21.0,"**Medical Note**
+
+**Patient:** [**Known lastname 1862**]  
+**Date:** [Insert Date]  
+**Time:** 1900-0700
+
+**Respiratory:**  
+- CPAP: 6 cm H2O, FiO2: 21%  
+- Respiratory Rate: 50-60 breaths/minute  
+- SaO2: 93-100%  
+- Clear breath sounds; mild intercostal and subcostal retractions observed  
+- One apneic spell noted; caffeine therapy ongoing  
+- Suctioned nares for cloudy secretions  
+
+**Cardiovascular:**  
+- Heart Rate: 150-170 bpm, regular  
+- Blood Pressure: 57/39  
+- Hematocrit: 28.2; reticulocyte count pending  
+
+**Fluid and Nutrition:**  
+- Total fluid intake: 150 cc/kg/day, increasing 10 cc/kg as tolerated  
+- Feeding: Currently at 90 cc/kg/day of breast milk, planned increase  
+- D-stick glucose: 89-91  
+
+**Plan:**  
+- Monitor respiratory status, adjust support as needed  
+- Review lab results, continue feeding regimen  
+- Follow up on reticulocyte count and manage findings"
+2162-01-16,49.516129032258064,169.96774193548387,98.4516129032258,21.0,"**Respiratory Status:**
+- Currently on CPAP: 6 cm H2O with FiO2: 21%.
+- SaO2: Stable at 96-100%.
+- Respiratory Rate: Fluctuating between 30-70 breaths per minute; primarily noted at 30-50 during stable periods.
+- Mild intercostal retractions observed.
+- No increased oxygen demand during cares.
+
+**Cardiac Observations:**
+- Heart Rate: Documented episodes between 64-78 bpm with a noted range of 170-180 bpm at rest.
+- Monitoring for apnea and bradycardia; 3 episodes reported today.
+
+**Clinical Notes:**
+- Caffeine therapy administered for respiratory support.
+- Clear breath sounds; one bradycardia spell documented during the shift. 
+
+**Plan:**
+- Continue close monitoring of respiratory and cardiac status.
+- Adjust respiratory support and nutritional intake as tolerated."
+2162-01-17,40.172413793103445,168.61290322580646,98.6774193548387,21.0,"**Respiratory Care Summary**
+
+**Current Respiratory Status:**
+- On CPAP: 6 cm H2O, FiO2: 21%
+- Respiratory Rate: 30-60 breaths/min
+- Oxygen Saturation (SaO2): 94-100%
+
+**Clinical Observations:**
+- Mild intercostal and subcostal retractions noted
+- Clear lung sounds with small cloudy secretions; oral suction performed
+- No apneic spells observed during monitoring
+
+**Medications:**
+- Caffeine and Vitamin A administered
+
+**Heart Rate:**
+- 150-180 bpm
+
+**Additional Notes:**
+- Patient stable on current respiratory support
+- Continuous monitoring required for respiratory needs and feeding tolerance"
+2162-01-18,43.17857142857143,169.96428571428572,97.64285714285714,21.0,"**Respiratory Care Note**  
+- **CPAP:** 6 cm H2O, FiO2 21%  
+- **Respiratory Rate:** 30-60 breaths per minute  
+- **Breath Sounds:** Clear  
+- **Caffeine:** Administered  
+- **Bradycardia:** One documented episode  
+- **Apneic Spells:** One requiring mild stimulation and increased oxygen  
+
+**Cardiovascular:**  
+- **Heart Rate:** 140-170 bpm  
+- **Blood Pressure:** 77/34 mmHg and 47 mmHg  
+- **Regular rhythm, no murmurs noted**  
+
+**Oxygenation:**  
+- **SaO2:** Not explicitly documented but inferred as adequate given clear breath sounds and no desaturation episodes reported.  
+
+**Plan:**  
+- Continue CPAP  
+- Monitor closely for respiratory and cardiovascular status  
+- Manage apneic spells and bradycardia as needed  "
+2162-01-19,47.92592592592592,170.03846153846155,97.96153846153848,21.0,"**Patient Name**: Baby [**Known lastname 1863**]  
+**Date**: [Insert date]  
+**Gestational Age**: Day 20, PMA 31 1  
+
+**Respiratory Rate**: 30-50 breaths per minute, stable; mild intercostal and subcostal retractions observed.  
+**Respiratory Support**: Currently on CPAP 6; weaned to CPAP 5 today with FiO2 at 21%.  
+**SaO2**: Fluctuating between 95-100%.  
+**Heart Rate**: Between 150-180 bpm; soft systolic murmur noted.  
+
+**Additional Observations**:  
+- Lungs clear with good air entry; small cloudy secretions present.  
+- No apneic spells noted during the shift; 2 apnea and bradycardia spells previously recorded with caffeine administered for stimulation.  
+
+**Plan**:  
+- Continue monitoring respiratory and cardiac status.  
+- Aim to wean PEEP to 5.  
+- Monitor tolerance to CPAP adjustments."
+2162-01-20,47.35714285714285,177.7037037037037,97.29629629629628,21.0,"**Respiratory Status:**
+- Patient on CPAP at 5 cm H2O with 21% FiO2.
+- Oxygen saturation consistently above 95%.
+- Respiratory rate: 30-60 breaths per minute, with intermittent retractions observed.
+- Lung sounds clear and equal bilaterally.
+- One desaturation episode: HR at 75 bpm, SpO2 at 86%.
+- Oral suction performed once, minimal cloudy secretions.
+
+**Vital Signs:**
+- Heart Rate: 160-180 bpm.
+- Blood Pressure: 68/45 mmHg.
+- Oxygen Delivery method: CPAP + 21% FiO2.
+
+**Assessment/Plan:**
+- Continue monitoring respiratory status and CPAP settings.
+- Caffeine therapy ongoing due to episodes of bradycardia.
+- Awaiting eye culture results for further treatment decisions."
+2162-01-21,49.689655172413794,176.32142857142858,97.14285714285714,21.0,"**Respiratory Status:**
+- On CPAP at 5 cm H2O with 21% FiO2.
+- Respiratory rate: 40-60 breaths per minute.
+- Oxygen saturation (SaO2): 96-100%.
+- Lungs clear bilaterally; mild intercostal and subcostal retractions noted.
+- One apnea and bradycardia episode in the past 24 hours.
+- No apneic spells documented during the shift.
+- Continued on caffeine and vitamin A.
+
+**Vital Signs:**
+- Heart Rate: 160-180 beats per minute.
+- Blood Pressure: 69/43 mmHg.
+
+**Plan:**
+- Continue monitoring respiratory status.
+- Consider weaning from CPAP to high-flow nasal cannula with medical team."
+2162-01-22,46.0,172.07407407407408,96.33333333333331,21.0,"**Patient: Known lastname 1862**  
+**Date: Day 23 PMA 31 4**  
+
+**Respiratory Status:**  
+- On CPAP with nasal prongs at 5 cm H2O, delivering 21% FiO2.  
+- Respiratory rate: 40-50 breaths per minute, with mild intercostal/subcostal retractions.  
+- No episodes of apnea, bradycardia, or desaturation.  
+
+**Heart Rate and Events:**  
+- Experienced 5 bradycardic events, 2 required mild stimulation.  
+- Continues on caffeine therapy.  
+
+**Oxygen Saturation:**  
+- SaO2 maintained within acceptable levels.  
+
+**General Condition:**  
+- Stabilized in servo isolette; irritable during care but sleeps well between interventions.  
+- Briefly sucking on a pacifier.  
+
+**Nutritional Status:**  
+- Receiving 150 cc/kg/day of BM26 with Beneprotein, tolerating full volume feeds.  
+- Abdominal exam shows soft abdomen with active bowel sounds, stooled once and heme negative.  
+
+**Assessment and Plan:**  
+- Continue CPAP support and caffeine therapy.  
+- Reassess in 4-5 days.  
+- Monitor respiratory status closely.  "
+2162-01-23,51.9,176.10344827586206,97.58620689655172,21.0,"**Medical Note Summary:**
+
+**Patient:** Baby [**Known lastname 1863**] #2  
+**Date:** [**Enter Date**]  
+**Day of Life:** 24, **Postmenstrual Age:** 31 weeks + 5 days  
+**Weight:** 909 g, increased by 48 g
+
+**Respiratory Care:**
+- On CPAP at 5 cm H2O; FiO2 at 21%.
+- Respiratory rate (RR) observed between 30-60; stable with no bradycardia.
+- Oxygen saturation (SaO2) consistently above 95%.
+- Lung sounds clear bilaterally, minimal intercostal and subcostal retractions.
+- One minor respiratory spell during feeding; no respiratory distress noted.
+- Caffeine administered for respiratory support.
+
+**Cardiovascular Findings:**
+- Heart rate (HR) between 170-180 bpm; no murmurs detected.
+
+**Clinical Observations:**
+- Abdomen assessed as soft and full; significant improvement noted post air aspiration.
+- Occasional heme-positive stools with no visible blood; monitoring required.
+
+**Nutrition:**
+- Total fluid intake: 150 cc/kg/day of breast milk with added protein.
+- Gavage feeding every 4 hours; tolerated moderately.
+
+**Assessment:**
+- Infant is responding positively with stable respiratory and nutritional support.
+- Close monitoring required for heme-positive stools and abdominal distension.
+
+**Plan:**
+- Continue CPAP and monitor respiratory status.
+- Engage parents in care process and provide updates.
+- Prepare for potential trial off CPAP on Tuesday if stable.
+- Monitor feeding tolerance and abdominal conditions closely."
+2162-01-24,51.48275862068966,176.42857142857142,98.42857142857144,21.0,"**Medical Note: Neonatology**
+
+**Date of Life (DOL):** 25  
+**Corrected Gestational Age (CGA):** 31 weeks  
+
+**Respiratory Rate:** 30-60 breaths per minute, on CPAP at 5 cm with 21% FiO2.  
+- Mild intercostal/subcostal retractions noted.  
+- No apnea or bradycardia events documented during shift.  
+- Clear lung sounds bilaterally.  
+- Oxygen saturation greater than 95%.  
+- Caffeine therapy ongoing for respiratory support.  
+
+**Heart Rate:** Regular rate and rhythm; normal heart sounds noted (S1, S2).  
+- Documented bradycardias (2 episodes) during the shift.
+
+**SaO2:** Maintained above 95% during monitoring.
+
+**FiO2:** Set at 21% via CPAP throughout the shift.
+
+**Plan:** Continue current respiratory support, monitor for apnea and bradycardia, and reassess for potential trial off CPAP later in the week."
+2162-01-25,60.41935483870968,178.33333333333334,98.2,21.0,"**Patient Information:**
+- Day 26 of life, PMA 32 weeks.
+- Weight: 965 grams (increase of 40 grams).
+
+**Respiratory Status:**
+- Currently on CPAP at 5 cm H2O with FiO2 21%.
+- Oxygen saturation levels between 94-100%.
+- Respiratory rate fluctuating between 30-70 breaths per minute; clear lung sounds with mild intercostal and subcostal retractions noted.
+- Suctioned nares once for small tan secretions.
+- No episodes of apnea or significant bradycardia observed.
+- Continuously monitored for apnea and desaturation.
+
+**Heart Rate:**
+- Ranging from 160-180 beats per minute.
+
+**Feeding:**
+- Currently on TPN with continuous trophic feeds at 150 cc/kg/day of breast milk.
+- Bowel movement noted; soft abdomen with positive bowel sounds; stable girth measurements.
+- No gastric looping or spit-ups observed; heme negative stools.
+
+**Assessment:**
+- Growing preterm infant with mild apnea of prematurity and feeding/growth concerns.
+
+**Plan:**
+- Continue monitoring respiratory status and AOP.
+- Prepare for potential trial off CPAP.
+- Complete Gentamicin ophthalmic treatment.
+- Schedule 30-day HUS therapy and Hepatitis B vaccination."
+2162-01-26,54.285714285714285,174.2962962962963,97.8148148148148,21.0,"**Medical Note Summary:**
+
+**Patient Information:**
+- Neonate, Day 27, PMA 32 weeks and 1 day.
+- Weight: 989 g, with an increase of 24 g.
+
+**Respiratory:**
+- Currently on nasal cannula (NC) with 500cc flow, 21% O2.
+- Respiratory rate: 40 to 80 breaths per minute.
+- Oxygen saturation (SaO2): 94-100%.
+- Lung sounds: Clear and equal bilaterally.
+- Intercostal and subcostal retractions noted.
+- Ongoing caffeine therapy.
+- One bradycardia episode recorded during the shift.
+
+**Heart Rate:**
+- 150-180 bpm, with a soft murmur noted.
+
+**Plan:**
+- Continue monitoring respiratory status, focusing on retractions and breath sounds.
+- Maintain current feeding plan and nutritional support.
+- Ongoing assessment of heart murmur.
+- Planned head ultrasound for further evaluation."
+2162-01-27,50.29166666666666,178.5,97.0,21.166666666666668,"**Medical Note:**
+
+**Date/Time:** NPN 1900-0700
+
+**Respiratory:**
+- Patient on NC300cc, 21% FiO2.
+- SaO2: 98-100%.
+- Respiratory rate fluctuates 40s-70s.
+- Clear bilateral lung sounds; retractions noted.
+- Oral suctioning performed twice; small amount of cloudy secretions.
+- Continued caffeine therapy.
+
+**Cardiovascular:**
+- Heart rate: 160-170 bpm, with two bradycardic events observed.
+- Blood pressure: 76/38.
+
+**Plan:**
+- Continue monitoring respiratory support and bradycardia events.
+- Maintain current FiO2 as needed; occasional adjustment up to 25-30% if required."
+2162-01-28,52.55172413793103,182.17857142857144,96.71428571428572,21.714285714285715,"**Respiratory Status:**
+- Respiratory rate: 30-60 breaths per minute.
+- Oxygen saturation (SaO2): Over 90% on room air (21-25% FiO2).
+- Mild subcostal and intercostal retractions observed.
+- Clear lung sounds, moderate nasal congestion with thick secretions.
+
+**Cardiovascular Status:**
+- Heart rate: 170-180 bpm.
+- Blood pressure: 71/43 mmHg.
+- Soft systolic murmur (Grade I-II/VI) noted.
+
+**Weight and Growth:**
+- Current weight: 1045 grams, increased by 35 grams.
+- Supports catch-up growth.
+
+**Plan:**
+- Continue monitoring respiratory status and feeding tolerance.
+- Maintain current oxygen support and medications (Vitamin E, Iron, Caffeine).
+- Monitor for signs of fatigue and initiate CPAP if necessary."
+2162-01-29,53.03333333333333,182.36666666666667,96.1,21.90322580645161,"**Medical Note:**
+
+**Patient Information:**
+- Age: DOL #30, CGA 32 weeks
+
+**Respiratory Status:**
+- Respiratory rate fluctuating between 30-60 breaths per minute. 
+- SaO2 >94%. 
+- Currently on nasal cannula (NC) with increased flow from 300 cc to 500 cc, FiO2 21-25%. 
+- Mild intercostal/subcostal retractions observed. 
+- One bradycardia episode noted; heart rate dropped to 59 requiring stimulation and increased oxygen. 
+- Four apnea/bradycardia events during the shift, three desaturation events resolved with stimulation and/or increased FiO2.
+
+**Cardiovascular Status:**
+- Stable on nasal cannula. 
+- Regular heart rate and rhythm without murmurs. 
+- Hemodynamically stable.
+
+**Plan:**
+- Continue current nasal cannula settings and caffeine administration. 
+- Gradual weaning of nasal cannula as tolerated. 
+- Monitor for respiratory events and evaluate the need for CPAP replacement."
+2162-01-30,55.73333333333333,176.0,97.46666666666668,24.48275862068965,"**Respiratory Care Note:**
+- Patient on high-flow nasal cannula at 500cc, 25% FiO2.
+- Respiratory rate: 50-60 breaths per minute.
+- Mild subcostal/intercostal retractions noted.
+- Clear breath sounds; no apnea or bradycardia during recent assessments.
+  
+**Cardiac Observations:**
+- Heart rate: 170-180 beats per minute.
+- Pink/slightly pale color; well-perfused with soft audible Grade I-II/VI systolic murmur.
+
+**Oxygen Saturation:**
+- SaO2 levels stable; no desaturating episodes observed at this time.
+
+**Assessment/Plan:**
+- Steady progress noted; continue current management.
+- Monitor for any increase in work of breathing; CPAP consideration if necessary."
+2162-01-31,58.03225806451613,177.46666666666667,97.3,21.07692307692308,"Patient: Neonate
+
+Date: 28/2/7, Day 32, PMA 32.6 weeks
+
+**Vital Signs:**
+- Respiratory Rate: 40-60 breaths per minute, observed at 30-60 during feeding.
+- Heart Rate: Baseline 160-170, increased to 190-200 with activity.
+- Oxygen Saturation (SaO2): High 90s.
+- Fraction of Inspired Oxygen (FiO2): Nasal cannula at 500cc flow, delivering 21-25% oxygen.
+
+**Clinical Observations:**
+- Respiratory: Mild intercostal and subcostal retractions, clear breath sounds.
+- Cardiovascular: Soft, audible systolic murmur, well-perfused, capillary refill < 3 seconds.
+- Developmental: Active and alert, engaging during care, stable in air-controlled isolette.
+
+**Assessment:**
+- Continued monitoring of respiratory status and heart rate fluctuations.
+- Caffeine therapy administered.
+- Observed two bradycardic spells with quick spontaneous recovery.
+
+**Plan:**
+- Maintain current oxygen support and feeding regimen.
+- Regular assessments for clinical status and parental involvement encouraged."
+2162-02-01,58.142857142857146,172.35714285714286,97.92857142857144,21.0,"**Respiratory Status:**
+- Patient on High-Flow Nasal Cannula (HFNC) at 500 cc, FiO2 21%.
+- Respiratory rate: 40-70 breaths per minute with mild intercostal and subcostal retractions.
+- Oxygen saturation (SaO2) in high 90s; no respiratory spells noted.
+- Breath sounds clear bilaterally.
+
+**Cardiovascular Status:**
+- Heart rate: 170-180 bpm, regular with a noted 2/6 systolic murmur.
+- Blood pressure: 63/42 mmHg (mean 50 mmHg).
+
+**Additional Notes:**
+- Caffeine therapy in place; one bradycardic spell noted during feeding, self-resolved.
+- Monitoring planned for respiratory and cardiovascular stability."
+2162-02-02,63.5925925925926,168.03571428571428,98.78571428571428,21.0,"**Medical Note Summary:**
+
+**Patient:** Neonate, Day of life 34, PMA 33 weeks  
+**Date/Time:** NPN 
+
+**Respiratory Status:**  
+- On high flow nasal cannula at 500cc delivering 21% oxygen.  
+- Respiratory rate: 30-70 breaths per minute with mild retractions.  
+- Oxygen saturation: High 90s; no respiratory spells noted during current shift.  
+- Caffeine administration ongoing.  
+
+**Cardiac Assessment:**  
+- Heart rate: 160-170 bpm.  
+- Blood pressure: 83/42 mmHg; mean arterial pressure: 54 mmHg.  
+
+**Feeding and Nutrition:**  
+- Total feeding: 150cc/kg/day of breast milk.  
+- Feeding administered at 29cc for 70 minutes, soft but full abdomen, active bowel sounds.  
+- Voiding observed; no stool noted; minimal air aspiration during feeding with no spitting.  
+
+**Developmental Status:**  
+- Stable temperature in a temperature-controlled isolette, swaddled.  
+
+**Plan:**  
+- Continue monitoring respiratory status, cardiac function, and feeding tolerance.  
+- Scheduled follow-ups for ophthalmology and nutrition labs.  "
+2162-02-03,55.17857142857143,171.14285714285714,97.60714285714286,21.0,"**Respiratory/Circulatory Assessment:**
+- Patient on nasal cannula, 500cc flow at 21% FiO2.
+- Respiratory rate: 40-60 breaths per minute.
+- Heart rate: 150-180 beats per minute.
+- SaO2: No specific value noted, but breath sounds are clear with good aeration.
+- Mild subcostal retractions observed.
+- Blood pressure: 71/42, mean arterial pressure 52.
+  
+**Observations:**
+- Soft audible murmur consistent with patent foramen ovale (PFO).
+- Patient appears stable and well-perfused with pale/pink color.
+- No increased work of breathing or abnormal bowel/drainage noted.
+  
+**Plan:**
+- Continue monitoring respiratory support and consider weaning off nasal cannula.
+- Ongoing caffeine therapy.
+- Scheduled follow-up for nutrition labs and eye exam."
+2162-02-04,61.06060606060606,169.43333333333334,97.4,21.0,"**Patient Information:**
+- Infant, weight 1200 g (increase of 15 g), AGA.
+
+**Respiratory Status:**
+- Nasal cannula at 500 cc, delivering 21% FiO2.
+- Respiratory rate: 30-70 breaths per minute.
+- Oxygen saturation: >92%.
+- Lung sounds: Clear and equal bilaterally.
+- Observations include mild subcostal retractions.
+- No abnormal spells noted.
+- Assessment: Stable, no respiratory incidents during shift.
+- Plan: Continue monitoring, consider weaning flow tomorrow.
+
+**Cardiac Status:**
+- Heart rate: 150-170 beats per minute.
+- Soft intermittent murmur noted; blood pressure 74/44, mean arterial pressure 54.
+
+**Feeding:**
+- Enteral feed: 150 cc/kg/day breast milk, bolus feeds at 30 cc every 4 hours.
+- Abdomen benign with stable girth.
+- Voiding appropriate, heme-negative stool.
+- Nutritional supplementation: Vitamin E and iron.
+- Assessment: Tolerating feeds well.
+
+**Developmental Observations:**
+- Maximum temperature recorded: 99.1°F.
+- Active engagement during care, appropriate muscle tone.
+- Fontanelle soft and flat.
+- Plan: Continue monitoring developmental milestones.
+
+**Assessment Summary:**
+- Overall progress noted with stable respiratory and nutritional status.
+- Continued focus on respiratory needs and nutritional intake to support growth."
+2162-02-05,52.689655172413794,169.82142857142858,99.25,21.0,"**Respiratory Notes:**
+- Patient on nasal cannula at 400 cc flow, receiving 21% oxygen.
+- Respiratory rate (RR): 30-70 breaths per minute, with observed mild subcostal retractions.
+- Oxygen saturation (SaO2): high 90s.
+- No respiratory spells noted.
+  
+**Cardiovascular Notes:**
+- Heart rate (HR): 170-180 bpm.
+- Blood pressure (BP): 67/76 mmHg, mean BP: 47 mmHg. 
+
+**Nutrition Notes:**
+- Weight: 1225 grams, increased by 25 grams.
+- Current feeding: 150 cc/kg/day of breast milk (30 cal/oz), received via pump over 75 minutes.
+- Voiding adequate, trace stool noted, minimal aspiration.
+
+**Plan:**
+- Continue monitoring respiratory status and nutritional tolerance.
+- Future plan to wean nasal cannula flow to 400 cc and discuss further adjustments with the team."
+2162-02-06,50.41379310344828,174.68965517241378,97.6896551724138,21.0,"**Patient Summary:**
+- **Age:** 38 days old, Post-Menstrual Age (PMA) 33 weeks and 5 days.
+- **Weight:** 1270 grams, gained 45 grams.
+
+**Respiratory Status:**
+- **Oxygen Requirement:** On nasal cannula (NC) at 200 cc flow with 21% FiO2.
+- **SaO2:** Maintained above 96%.
+- **Respiratory Rate:** 40-60 breaths per minute.
+- **Physical Exam:** Clear and equal breath sounds, mild retractions, no apnea or bradycardia, one episode of mild stimulation post-feeding.
+- **Suctioning:** Bulb suction performed once for small cloudy secretions.
+
+**Cardiac Status:**
+- **Heart Rate:** Ranges from 170-180 bpm.
+
+**Assessment:**
+- Diagnosis of mild apnea of prematurity (AOP) and ongoing monitoring of respiratory status is recommended.
+- Continue current management, including nutritional support and daily caffeine administration.
+- Prepare for upcoming eye exam."
+2162-02-07,58.07692307692308,170.04,97.48,21.0,"**Medical Note:**
+
+**Date/Time:** NPN 0700-1900
+
+**Respiratory Status:**
+- Infant on nasal cannula (NC) at 200cc, 21% FiO2.
+- Respiratory rate (RR): fluctuating between 30-70 breaths per minute.
+- Oxygen saturation (SaO2): consistently above 94%, high 90s after suctioning.
+- Lungs clear with mild nasal congestion; suctioning performed for moderate secretions.
+- No apneic spells noted; monitored for desaturation and heart rate drops.
+
+**Heart Rate:**
+- Documented three bradycardic episodes in the last 24 hours; currently on caffeine therapy.
+  
+**Assessment & Plan:**
+- Continue to monitor respiratory and heart rate closely.
+- Maintain current management of oxygen therapy and feedings.
+- Scheduled follow-up for ophthalmology and clinical monitoring for cardiac murmurs."
+2162-02-08,59.55555555555556,172.66666666666666,98.44444444444444,21.0,"**New Summarized Medical Note:**
+
+- **Respiratory Rate:** 50-70 breaths per minute, with observed mild intercostal and subcostal retractions. No respiratory spells noted during the shift.
+- **Heart Rate:** Regular rate and rhythm, confirmed during cardiovascular assessment.
+- **SaO2:** Oxygen saturation maintained at ≥ 97% while on nasal cannula.
+- **FiO2:** Receiving oxygen via nasal cannula at 200 cc flow, with 21% FiO2. 
+
+- **Plan:** Continue close monitoring of respiratory status and vital signs. Gradually wean nasal cannula flow, reassess as needed."

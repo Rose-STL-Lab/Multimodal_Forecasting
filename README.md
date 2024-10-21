@@ -1,5 +1,37 @@
 # Multimodal Forecasting
 
+## Hybrid Model Workflow
+
+For the Hybrid model, we provide the raw dataset in `data/medical` and `data/climate_2014_2023_final.csv`.
+
+Run the following command to install all the dependencies:
+
+```bash
+pip install -r requirement.txt
+```
+
+To run the main script:
+
+For Hybrid model
+```
+# run mlp pretraining stage
+python -m src.hybrid -i 1 -o 1 -ms --config='config/medical_bge.yaml' &&
+
+# evaluate mlp pretraining stage
+python -m src.hybrid -i 1 -o 1 -ms -t --config='config/medical_bge.yaml' &&
+
+# run end-to-end finetuning stage
+python -m src.hybrid -i 1 -o 1 -hs --config='config/medical_bge.yaml' &&
+
+# make inference on end-to-end finetuning stage
+python -m src.hybrid -i 1 -o 1 -hs -t --config='config/medical_bge.yaml' &&
+
+# evaluate end-to-end finetuning stage
+python -m src.evaluate -i 1 -o 1 -hs --config='config/medical_bge.yaml'
+```
+
+
+## Baseline Model Workflow
 
 
 ## Prerequisites
@@ -24,7 +56,6 @@ Before you begin, ensure you have accounts set up on:
 3. **Configure wandb and Hugging Face credentials:**
    Follow the documentation for each platform to set up your API keys and authentication.
 
-## Workflow
 
 ### 1. Data Preparation
 
@@ -52,24 +83,6 @@ Run inference using either the fine-tuned model or a pre-trained model. Results 
 ## Usage
 
 To run the main script:
-
-For Hybrid model
-```
-# run mlp pretraining stage
-python -m src.hybrid -i 1 -o 1 -ms --config='config/medical_bge.yaml' &&
-
-# evaluate mlp pretraining stage
-python -m src.hybrid -i 1 -o 1 -ms -t --config='config/medical_bge.yaml' &&
-
-# run end-to-end finetuning stage
-python -m src.hybrid -i 1 -o 1 -hs --config='config/medical_bge.yaml' &&
-
-# make inference on end-to-end finetuning stage
-python -m src.hybrid -i 1 -o 1 -hs -t --config='config/medical_bge.yaml' &&
-
-# evaluate end-to-end finetuning stage
-python -m src.evaluate -i 1 -o 1 -hs --config='config/medical_bge.yaml'
-```
 
 For fine-tuned model:
 ```
