@@ -25,8 +25,8 @@ from peft import (
     PeftModel
 )
 import torch.nn.functional as F
-from model.hybrid import HybridModel
-from model.multihead_mlp import MultiHeadMLP
+from hybrid_model.hybrid import HybridModel
+from hybrid_model.multihead_mlp import MultiHeadMLP
 import wandb
 import argparse
 from dotenv import load_dotenv

@@ -152,12 +152,8 @@ if __name__ == '__main__':
     parser.add_argument('-o', '--output_window', type=int, help='Output window size')
     parser.add_argument('-ms', '--mlp_stage', action='store_true',
                         help='train mlp only')
-    parser.add_argument('-ls', '--llm_stage', action='store_true',
-                        help='train llm only')
     parser.add_argument('-hs', '--hybrid_stage', action='store_true',
                         help='freeze mlp and train llm')
-    parser.add_argument('-fs', '--final_stage', action='store_true',
-                        help='train mlp and llm at the same time')
     parser.add_argument('-d', '--debug', action='store_true',
                         help='debug by breaking loops')
     parser.add_argument('-c', '--config', type=str,
@@ -171,12 +167,8 @@ if __name__ == '__main__':
     cfg = load_config(config_path)
     if args.mlp_stage:
         current_stage = cfg['mlp_dir']
-    elif args.llm_stage:
-        current_stage = cfg['llm_dir']
     elif args.hybrid_stage:
         current_stage = cfg['hybrid_dir']
-    elif args.final_stage:
-        current_stage = cfg['final_dir']
 
     exp_dir = f"{cfg['results_dir']}/{args.input_window}_{args.output_window}/{current_stage}"
     logger.add(f"{exp_dir}/metrics.log", rotation="1000 MB")

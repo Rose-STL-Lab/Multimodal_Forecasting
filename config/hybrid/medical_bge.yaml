@@ -46,8 +46,6 @@ llm:
 
 results_dir: results_medical_bge
 mlp_dir: mlp_stage
-llm_dir: llm_stage
 hybrid_dir: hybrid_stage
-final_dir: final_stage_mlp_weight_2
 
 debug: false
