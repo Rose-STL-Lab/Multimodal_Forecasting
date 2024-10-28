@@ -36,6 +36,7 @@ openai = "^1.52.2"
 scikit-learn = "^1.5.2"
 pygments = "^2.18.0"
 unsloth = {git = "https://github.com/unslothai/unsloth.git", extras = ["colab-new"]}
+loguru = "^0.7.2"
 
 
 [build-system]

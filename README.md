@@ -19,6 +19,7 @@ Before you begin, ensure you have accounts set up on:
 2. **Install dependencies:**
    ```
    conda env create -f environment.yml
+   conda activate textforecast
    poetry install
    ```
 
