@@ -1,11 +1,10 @@
 from sentence_transformers import SentenceTransformer
 from glob import glob
-from huggingface_hub import login
 import pandas as pd
 import os
 from utils.dataset import get_embedding_loader, get_embedding_loader_from_list, apply_chat_template
 from utils.config import load_config
-from utils.tokens import convert_prompt_to_tokens, completions_only_labels, get_masked_llm_loss
+from utils.tokens import get_masked_llm_loss
 import torch
 from tqdm import tqdm, trange
 from loguru import logger
@@ -17,13 +16,7 @@ from transformers import (
     AutoModelForCausalLM,
     AutoTokenizer,
 )
-from peft import (
-    prepare_model_for_kbit_training,
-    get_peft_model,
-    LoraConfig,
-    TaskType,
-    PeftModel
-)
+from peft import PeftModel
 import torch.nn.functional as F
 from hybrid_model.hybrid import HybridModel
 from hybrid_model.multihead_mlp import MultiHeadMLP
@@ -55,7 +48,7 @@ if __name__ == "__main__":
     if args.config:
         config_path = args.config
     else:
-        config_path = 'config/config.yaml'
+        config_path = 'config/hybrid/climate.yaml'
     cfg = load_config(config_path)
     set_seed(cfg['seed'])
 
