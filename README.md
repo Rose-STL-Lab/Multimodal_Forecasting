@@ -2,15 +2,32 @@
 
 Due to the modification of the LLM model in the hybrid model, we provide separate workflow for the baseline model and the hybrid model.
 
+## Prerequisites
+
+Before you begin, ensure you have accounts set up on:
+- [Weights & Biases (wandb)](https://wandb.ai/)
+- [Hugging Face](https://huggingface.co/)
+
+## Project Setup
+
+1. **Clone the repository:**
+   ```
+   git clone git@github.com:Rose-STL-Lab/Multimodal_Forecasting.git
+   cd Multimodal_Forecasting
+   ```
+
+2. **Install dependencies:**
+   ```
+   conda env create -f environment.yml
+   poetry install
+   ```
+
+3. **Configure wandb and Hugging Face credentials:**
+   Follow the documentation for each platform to set up your API keys and authentication.
+
 ## Hybrid Model Workflow
 
 For the Hybrid model, we provide the raw dataset in `data/medical` and `data/climate_2014_2023_final.csv`.
-
-Run the following command to install all the dependencies:
-
-```bash
-conda env create -f environment.yml
-```
 
 To run the main script:
 
@@ -30,29 +47,6 @@ python -m src.evaluate -i 1 -o 1 -hs --config='config/hybrid/climate.yaml'
 
 
 ## Baseline Model Workflow
-
-
-## Prerequisites
-
-Before you begin, ensure you have accounts set up on:
-- [Weights & Biases (wandb)](https://wandb.ai/)
-- [Hugging Face](https://huggingface.co/)
-
-## Project Setup
-
-1. **Clone the repository:**
-   ```
-   git clone git@github.com:Rose-STL-Lab/Multimodal_Forecasting.git
-   cd Multimodal_Forecasting
-   ```
-
-2. **Install dependencies:**
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. **Configure wandb and Hugging Face credentials:**
-   Follow the documentation for each platform to set up your API keys and authentication.
 
 
 ### 1. Data Preparation
