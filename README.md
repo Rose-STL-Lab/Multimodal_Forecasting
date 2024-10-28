@@ -1,5 +1,7 @@
 # Multimodal Forecasting
 
+Due to the modification of the LLM model in the hybrid model, we provide separate workflow for the baseline model and the hybrid model.
+
 ## Hybrid Model Workflow
 
 For the Hybrid model, we provide the raw dataset in `data/medical` and `data/climate_2014_2023_final.csv`.
@@ -7,7 +9,7 @@ For the Hybrid model, we provide the raw dataset in `data/medical` and `data/cli
 Run the following command to install all the dependencies:
 
 ```bash
-pip install -r requirement.txt
+conda env create -f environment.yml
 ```
 
 To run the main script:
@@ -15,19 +17,15 @@ To run the main script:
 For Hybrid model
 ```
 # run mlp pretraining stage
-python -m src.hybrid -i 1 -o 1 -ms --config='config/medical_bge.yaml' &&
-
+python -m src.hybrid -i 1 -o 1 -ms --config='config/hybrid/climate.yaml'
 # evaluate mlp pretraining stage
-python -m src.hybrid -i 1 -o 1 -ms -t --config='config/medical_bge.yaml' &&
-
+python -m src.hybrid -i 1 -o 1 -ms -t --config='config/hybrid/climate.yaml'
 # run end-to-end finetuning stage
-python -m src.hybrid -i 1 -o 1 -hs --config='config/medical_bge.yaml' &&
-
+python -m src.hybrid -i 1 -o 1 -hs --config='config/hybrid/climate.yaml'
 # make inference on end-to-end finetuning stage
-python -m src.hybrid -i 1 -o 1 -hs -t --config='config/medical_bge.yaml' &&
-
+python -m src.hybrid -i 1 -o 1 -hs -t --config='config/climate.yaml'
 # evaluate end-to-end finetuning stage
-python -m src.evaluate -i 1 -o 1 -hs --config='config/medical_bge.yaml'
+python -m src.evaluate -i 1 -o 1 -hs --config='config/hybrid/climate.yaml'
 ```
 
 
